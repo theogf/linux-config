@@ -1,0 +1,2958 @@
+INFO 10/26/2020, 1:52:03 PM  luanchFromDiffVersion, pre version is undefined
+INFO 10/26/2020, 1:52:03 PM  overwriteThemeFolder
+INFO 10/26/2020, 1:52:03 PM  ------------------start------------------
+INFO 10/26/2020, 1:52:03 PM  typora version: 0.9.96
+DEBUG 10/26/2020, 1:52:03 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/experiments/ParticleFlow/README.md'
+]
+DEBUG 10/26/2020, 1:52:03 PM  app.openFile
+INFO 10/26/2020, 1:52:03 PM  addRecentDocument
+INFO 10/26/2020, 1:52:03 PM  [Raven] instanceKey = d7af75f1-9441-4230-ab18-8e0ac67eea87
+INFO 10/26/2020, 1:52:03 PM  [focus] 1
+INFO 10/26/2020, 1:52:03 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 10/26/2020, 1:52:09 PM  updateTheme
+INFO 10/26/2020, 1:52:50 PM  [blur] 1
+INFO 10/26/2020, 1:52:52 PM  [focus] 1
+INFO 10/26/2020, 1:52:57 PM  [blur] 1
+INFO 10/26/2020, 1:53:19 PM  [focus] 1
+INFO 10/26/2020, 1:53:34 PM  [blur] 1
+INFO 11/2/2020, 2:28:22 PM  [focus] 1
+INFO 11/2/2020, 2:28:24 PM  ----------------before-quit-----------------
+INFO 11/2/2020, 2:28:24 PM  ------------------will-quit------------------
+INFO 11/2/2020, 5:09:43 PM  ------------------start------------------
+INFO 11/2/2020, 5:09:43 PM  typora version: 0.9.96
+DEBUG 11/2/2020, 5:09:43 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/Tools/ReMarkableAPI/README.md'
+]
+DEBUG 11/2/2020, 5:09:43 PM  app.openFile
+INFO 11/2/2020, 5:09:43 PM  addRecentDocument
+INFO 11/2/2020, 5:09:43 PM  [Raven] instanceKey = 7fcda50d-144a-4a1e-a377-1753f4741fbd
+INFO 11/2/2020, 5:09:43 PM  [focus] 1
+INFO 11/2/2020, 5:09:43 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 11/2/2020, 5:10:08 PM  [blur] 1
+INFO 11/2/2020, 5:10:26 PM  [focus] 1
+INFO 11/2/2020, 5:10:34 PM  [blur] 1
+INFO 11/2/2020, 5:10:37 PM  [focus] 1
+INFO 11/2/2020, 5:10:38 PM  [blur] 1
+INFO 11/2/2020, 5:11:01 PM  [focus] 1
+INFO 11/2/2020, 5:11:03 PM  [blur] 1
+INFO 11/2/2020, 5:11:19 PM  [focus] 1
+INFO 11/2/2020, 5:11:22 PM  ----------------before-quit-----------------
+INFO 11/2/2020, 5:11:22 PM  ------------------will-quit------------------
+INFO 11/3/2020, 11:50:14 AM  ------------------start------------------
+INFO 11/3/2020, 11:50:14 AM  typora version: 0.9.96
+DEBUG 11/3/2020, 11:50:14 AM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/Tools/ReMarkableAPI/README.md'
+]
+DEBUG 11/3/2020, 11:50:14 AM  app.openFile
+INFO 11/3/2020, 11:50:14 AM  addRecentDocument
+INFO 11/3/2020, 11:50:14 AM  [Raven] instanceKey = 6fa73bc7-7d42-49f5-8a0e-fc1bc4a9d943
+INFO 11/3/2020, 11:50:14 AM  [focus] 1
+INFO 11/3/2020, 11:50:14 AM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 11/3/2020, 11:50:59 AM  [blur] 1
+INFO 11/3/2020, 12:11:12 PM  [focus] 1
+INFO 11/3/2020, 12:11:16 PM  [blur] 1
+INFO 11/3/2020, 12:14:15 PM  [focus] 1
+INFO 11/3/2020, 12:14:52 PM  [blur] 1
+INFO 11/3/2020, 12:27:12 PM  [focus] 1
+INFO 11/3/2020, 12:27:13 PM  [blur] 1
+INFO 11/3/2020, 3:26:45 PM  [focus] 1
+INFO 11/3/2020, 3:26:47 PM  [blur] 1
+INFO 11/5/2020, 11:20:05 AM  [focus] 1
+INFO 11/5/2020, 11:20:05 AM  [blur] 1
+INFO 11/5/2020, 11:21:06 AM  [focus] 1
+INFO 11/5/2020, 11:21:07 AM  ----------------before-quit-----------------
+INFO 11/5/2020, 11:21:07 AM  ------------------will-quit------------------
+INFO 12/4/2020, 1:30:33 PM  ------------------start------------------
+INFO 12/4/2020, 1:30:33 PM  typora version: 0.9.96
+DEBUG 12/4/2020, 1:30:33 PM  [ '/usr/share/typora/Typora', '/home/theo/academic_website/README.md' ]
+DEBUG 12/4/2020, 1:30:33 PM  app.openFile
+INFO 12/4/2020, 1:30:33 PM  addRecentDocument
+INFO 12/4/2020, 1:30:33 PM  [Raven] instanceKey = 4121bfe9-995d-4472-9424-9805c6796fc1
+INFO 12/4/2020, 1:30:33 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 12/4/2020, 1:30:33 PM  [focus] 1
+INFO 12/4/2020, 1:30:38 PM  ----------------before-quit-----------------
+INFO 12/4/2020, 1:30:38 PM  ------------------will-quit------------------
+INFO 1/8/2021, 2:44:13 PM  ------------------start------------------
+INFO 1/8/2021, 2:44:13 PM  typora version: 0.9.96
+DEBUG 1/8/2021, 2:44:13 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/experiments/SparseGPGibbs/README.md'
+]
+DEBUG 1/8/2021, 2:44:13 PM  app.openFile
+INFO 1/8/2021, 2:44:13 PM  addRecentDocument
+INFO 1/8/2021, 2:44:13 PM  [Raven] instanceKey = 7b02596c-04ee-4e25-b84a-08cefecc66d0
+INFO 1/8/2021, 2:44:13 PM  [focus] 1
+INFO 1/8/2021, 2:44:13 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 1/8/2021, 2:45:39 PM  [blur] 1
+INFO 1/8/2021, 2:45:41 PM  [focus] 1
+INFO 1/8/2021, 2:46:10 PM  ----------------before-quit-----------------
+INFO 1/8/2021, 2:46:10 PM  ------------------will-quit------------------
+INFO 4/26/2021, 5:54:44 PM  ------------------start------------------
+INFO 4/26/2021, 5:54:44 PM  typora version: 0.9.96
+DEBUG 4/26/2021, 5:54:44 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/Writing/theogf.github.io/index.md'
+]
+DEBUG 4/26/2021, 5:54:44 PM  app.openFile
+INFO 4/26/2021, 5:54:44 PM  addRecentDocument
+INFO 4/26/2021, 5:54:44 PM  [Raven] instanceKey = eca2f74c-e5b7-4837-b51d-3f1527dab4e7
+INFO 4/26/2021, 5:54:44 PM  [focus] 1
+INFO 4/26/2021, 5:54:44 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 4/26/2021, 5:54:48 PM  ----------------before-quit-----------------
+INFO 4/26/2021, 5:54:48 PM  ------------------will-quit------------------
+INFO 4/26/2021, 5:54:50 PM  ------------------start------------------
+INFO 4/26/2021, 5:54:50 PM  typora version: 0.9.96
+DEBUG 4/26/2021, 5:54:50 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/Writing/theogf.github.io/README.md'
+]
+DEBUG 4/26/2021, 5:54:50 PM  app.openFile
+INFO 4/26/2021, 5:54:50 PM  addRecentDocument
+INFO 4/26/2021, 5:54:50 PM  [Raven] instanceKey = 096200e3-d627-47dc-b8e5-c91e4572ea0f
+INFO 4/26/2021, 5:54:50 PM  [focus] 1
+INFO 4/26/2021, 5:54:50 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 4/26/2021, 5:54:52 PM  ----------------before-quit-----------------
+INFO 4/26/2021, 5:54:52 PM  ------------------will-quit------------------
+INFO 4/26/2021, 5:56:29 PM  ------------------start------------------
+INFO 4/26/2021, 5:56:29 PM  typora version: 0.9.96
+DEBUG 4/26/2021, 5:56:29 PM  [
+  '/usr/share/typora/Typora',
+  '/home/theo/Writing/theogf.github.io/index.md'
+]
+DEBUG 4/26/2021, 5:56:29 PM  app.openFile
+INFO 4/26/2021, 5:56:29 PM  addRecentDocument
+INFO 4/26/2021, 5:56:29 PM  [Raven] instanceKey = e25d7994-3507-4d50-94c4-d4f7374d45dc
+INFO 4/26/2021, 5:56:29 PM  [focus] 1
+INFO 4/26/2021, 5:56:29 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 4/26/2021, 5:56:34 PM  ----------------before-quit-----------------
+INFO 4/26/2021, 5:56:34 PM  ------------------will-quit------------------
+INFO 4/29/2021, 12:33:07 PM  luanchFromDiffVersion, pre version is 0.9.96
+INFO 4/29/2021, 12:33:07 PM  overwriteThemeFolder
+INFO 4/29/2021, 12:33:07 PM  ------------------start------------------
+INFO 4/29/2021, 12:33:07 PM  typora version: 0.10.6
+INFO 4/29/2021, 12:33:07 PM  addRecentDocument
+INFO 4/29/2021, 12:33:07 PM  added recovery 1 /home/theo/.cache/.fr-RUms14/README.md undefined (0)
+INFO 4/29/2021, 12:33:07 PM  [Raven] instanceKey = 66ede2f6-c46c-4ef2-9b66-29f1a5f0f83c
+INFO 4/29/2021, 12:33:07 PM  [focus] 1
+INFO 4/29/2021, 12:33:07 PM  synced recovery
+INFO 4/29/2021, 12:33:07 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 4/29/2021, 12:33:07 PM  updateTheme
+INFO 4/29/2021, 12:33:08 PM  handle document.loadInitData
+INFO 4/29/2021, 12:33:08 PM  added recovery 1 /home/theo/.cache/.fr-RUms14/README.md undefined (0)
+INFO 4/29/2021, 12:33:08 PM  synced recovery
+INFO 4/29/2021, 12:33:11 PM  synced recovery
+INFO 4/29/2021, 12:33:11 PM  ----------------before-quit-----------------
+INFO 4/29/2021, 12:33:11 PM  ------------------will-quit------------------
+INFO 4/29/2021, 12:33:11 PM  -----------------quit------------------
+INFO 4/29/2021, 12:33:11 PM  closeLogging
+INFO 8/18/2021, 10:58:10 AM  luanchFromDiffVersion, pre version is 0.10.6
+INFO 8/18/2021, 10:58:10 AM  cleanupOlderCache
+INFO 8/18/2021, 10:58:10 AM  [Raven] instanceKey = ef004cf3-0a64-42f5-b5af-696d0258a811
+INFO 8/18/2021, 10:58:10 AM  overwriteThemeFolder
+INFO 8/18/2021, 10:58:10 AM  ------------------start------------------
+INFO 8/18/2021, 10:58:10 AM  typora version: 0.11.5
+INFO 8/18/2021, 10:58:10 AM  addRecentDocument
+INFO 8/18/2021, 10:58:10 AM  added recovery 1 /home/theo/Writing/theogf.github.io/talks.md undefined (0)
+INFO 8/18/2021, 10:58:10 AM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 8/18/2021, 10:58:10 AM  putAccelerator File -> &File
+INFO 8/18/2021, 10:58:10 AM  putAccelerator Edit -> &Edit
+INFO 8/18/2021, 10:58:10 AM  putAccelerator Paragraph -> &Paragraph
+INFO 8/18/2021, 10:58:10 AM  putAccelerator Format -> F&ormat
+INFO 8/18/2021, 10:58:10 AM  putAccelerator View -> &View
+INFO 8/18/2021, 10:58:10 AM  putAccelerator Themes -> &Themes
+INFO 8/18/2021, 10:58:10 AM  putAccelerator Help -> &Help
+INFO 8/18/2021, 10:58:10 AM  synced recovery
+INFO 8/18/2021, 10:58:10 AM  [focus] 1
+INFO 8/18/2021, 10:58:10 AM  updateTheme
+INFO 8/18/2021, 10:58:10 AM  handle document.loadInitData
+INFO 8/18/2021, 10:58:11 AM  added recovery 1 /home/theo/Writing/theogf.github.io/talks.md undefined (0)
+INFO 8/18/2021, 10:58:11 AM  synced recovery
+INFO 8/18/2021, 10:58:16 AM  synced recovery
+INFO 8/18/2021, 10:58:16 AM  ----------------before-quit-----------------
+INFO 8/18/2021, 10:58:16 AM  ------------------will-quit------------------
+INFO 8/18/2021, 10:58:16 AM  -----------------quit------------------
+INFO 8/18/2021, 10:58:16 AM  closeLogging
+INFO 8/18/2021, 10:58:17 AM  ------------------start------------------
+INFO 8/18/2021, 10:58:17 AM  typora version: 0.11.5
+INFO 8/18/2021, 10:58:17 AM  addRecentDocument
+INFO 8/18/2021, 10:58:17 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md undefined (0)
+INFO 8/18/2021, 10:58:17 AM  [Raven] instanceKey = b0df6367-aa82-4a10-9c2e-ef9997de5b6d
+INFO 8/18/2021, 10:58:17 AM  putAccelerator File -> &File
+INFO 8/18/2021, 10:58:17 AM  putAccelerator Edit -> &Edit
+INFO 8/18/2021, 10:58:17 AM  putAccelerator Paragraph -> &Paragraph
+INFO 8/18/2021, 10:58:17 AM  putAccelerator Format -> F&ormat
+INFO 8/18/2021, 10:58:17 AM  putAccelerator View -> &View
+INFO 8/18/2021, 10:58:17 AM  putAccelerator Themes -> &Themes
+INFO 8/18/2021, 10:58:17 AM  putAccelerator Help -> &Help
+INFO 8/18/2021, 10:58:17 AM  synced recovery
+INFO 8/18/2021, 10:58:17 AM  [focus] 1
+INFO 8/18/2021, 10:58:17 AM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 8/18/2021, 10:58:18 AM  handle document.loadInitData
+INFO 8/18/2021, 10:58:18 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md undefined (0)
+INFO 8/18/2021, 10:58:18 AM  synced recovery
+INFO 8/18/2021, 10:58:22 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5830)
+INFO 8/18/2021, 10:58:22 AM  synced recovery
+INFO 8/18/2021, 10:58:23 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5831)
+INFO 8/18/2021, 10:58:23 AM  synced recovery
+INFO 8/18/2021, 10:58:23 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5832)
+INFO 8/18/2021, 10:58:23 AM  synced recovery
+INFO 8/18/2021, 10:58:25 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5833)
+INFO 8/18/2021, 10:58:25 AM  synced recovery
+INFO 8/18/2021, 10:58:26 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5834)
+INFO 8/18/2021, 10:58:26 AM  synced recovery
+INFO 8/18/2021, 10:58:27 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5833)
+INFO 8/18/2021, 10:58:27 AM  synced recovery
+INFO 8/18/2021, 10:58:30 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5849)
+INFO 8/18/2021, 10:58:30 AM  synced recovery
+INFO 8/18/2021, 10:58:32 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5865)
+INFO 8/18/2021, 10:58:32 AM  synced recovery
+INFO 8/18/2021, 10:58:33 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5865)
+INFO 8/18/2021, 10:58:33 AM  synced recovery
+INFO 8/18/2021, 10:58:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5871)
+INFO 8/18/2021, 10:58:34 AM  synced recovery
+INFO 8/18/2021, 10:58:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5872)
+INFO 8/18/2021, 10:58:34 AM  synced recovery
+INFO 8/18/2021, 10:58:35 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5879)
+INFO 8/18/2021, 10:58:35 AM  synced recovery
+INFO 8/18/2021, 10:58:36 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5879)
+INFO 8/18/2021, 10:58:36 AM  synced recovery
+INFO 8/18/2021, 10:58:36 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5879)
+INFO 8/18/2021, 10:58:36 AM  synced recovery
+INFO 8/18/2021, 10:58:37 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5878)
+INFO 8/18/2021, 10:58:37 AM  synced recovery
+INFO 8/18/2021, 10:58:38 AM  [blur] 1
+INFO 8/18/2021, 10:58:38 AM  [win] blur
+INFO 8/18/2021, 10:58:47 AM  [focus] 1
+INFO 8/18/2021, 10:58:49 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5880)
+INFO 8/18/2021, 10:58:49 AM  synced recovery
+INFO 8/18/2021, 10:58:50 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5883)
+INFO 8/18/2021, 10:58:50 AM  synced recovery
+INFO 8/18/2021, 10:58:50 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5882)
+INFO 8/18/2021, 10:58:50 AM  synced recovery
+INFO 8/18/2021, 10:58:51 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5881)
+INFO 8/18/2021, 10:58:51 AM  synced recovery
+INFO 8/18/2021, 10:58:51 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5883)
+INFO 8/18/2021, 10:58:51 AM  synced recovery
+INFO 8/18/2021, 10:58:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5919)
+INFO 8/18/2021, 10:58:52 AM  synced recovery
+INFO 8/18/2021, 10:58:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5920)
+INFO 8/18/2021, 10:58:52 AM  synced recovery
+INFO 8/18/2021, 10:58:56 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5920)
+INFO 8/18/2021, 10:58:56 AM  synced recovery
+INFO 8/18/2021, 10:58:56 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5920)
+INFO 8/18/2021, 10:58:56 AM  synced recovery
+INFO 8/18/2021, 10:59:01 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5929)
+INFO 8/18/2021, 10:59:01 AM  synced recovery
+INFO 8/18/2021, 10:59:01 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5930)
+INFO 8/18/2021, 10:59:01 AM  synced recovery
+INFO 8/18/2021, 10:59:02 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5929)
+INFO 8/18/2021, 10:59:02 AM  synced recovery
+INFO 8/18/2021, 10:59:02 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5930)
+INFO 8/18/2021, 10:59:02 AM  synced recovery
+INFO 8/18/2021, 10:59:06 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (5933)
+INFO 8/18/2021, 10:59:06 AM  synced recovery
+INFO 8/18/2021, 10:59:08 AM  [blur] 1
+INFO 8/18/2021, 10:59:08 AM  [win] blur
+INFO 8/18/2021, 10:59:28 AM  [focus] 1
+INFO 8/18/2021, 10:59:29 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6024)
+INFO 8/18/2021, 10:59:29 AM  synced recovery
+INFO 8/18/2021, 10:59:31 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6023)
+INFO 8/18/2021, 10:59:31 AM  synced recovery
+INFO 8/18/2021, 10:59:32 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6024)
+INFO 8/18/2021, 10:59:32 AM  synced recovery
+INFO 8/18/2021, 10:59:33 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6023)
+INFO 8/18/2021, 10:59:33 AM  synced recovery
+INFO 8/18/2021, 10:59:33 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6024)
+INFO 8/18/2021, 10:59:33 AM  synced recovery
+INFO 8/18/2021, 10:59:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6025)
+INFO 8/18/2021, 10:59:34 AM  synced recovery
+INFO 8/18/2021, 10:59:35 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6027)
+INFO 8/18/2021, 10:59:35 AM  synced recovery
+INFO 8/18/2021, 10:59:37 AM  [blur] 1
+INFO 8/18/2021, 10:59:37 AM  [win] blur
+INFO 8/18/2021, 10:59:48 AM  [focus] 1
+INFO 8/18/2021, 10:59:49 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6066)
+INFO 8/18/2021, 10:59:49 AM  synced recovery
+INFO 8/18/2021, 10:59:51 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6067)
+INFO 8/18/2021, 10:59:51 AM  synced recovery
+INFO 8/18/2021, 10:59:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6073)
+INFO 8/18/2021, 10:59:55 AM  synced recovery
+INFO 8/18/2021, 10:59:58 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6095)
+INFO 8/18/2021, 10:59:58 AM  synced recovery
+INFO 8/18/2021, 10:59:58 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6094)
+INFO 8/18/2021, 10:59:58 AM  synced recovery
+INFO 8/18/2021, 10:59:59 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6093)
+INFO 8/18/2021, 10:59:59 AM  synced recovery
+INFO 8/18/2021, 10:59:59 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6095)
+INFO 8/18/2021, 10:59:59 AM  synced recovery
+INFO 8/18/2021, 11:00:00 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6093)
+INFO 8/18/2021, 11:00:00 AM  synced recovery
+INFO 8/18/2021, 11:00:13 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6106)
+INFO 8/18/2021, 11:00:13 AM  synced recovery
+INFO 8/18/2021, 11:00:16 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6109)
+INFO 8/18/2021, 11:00:16 AM  synced recovery
+INFO 8/18/2021, 11:00:16 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6110)
+INFO 8/18/2021, 11:00:16 AM  synced recovery
+INFO 8/18/2021, 11:00:20 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6126)
+INFO 8/18/2021, 11:00:20 AM  synced recovery
+INFO 8/18/2021, 11:00:23 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6133)
+INFO 8/18/2021, 11:00:23 AM  synced recovery
+INFO 8/18/2021, 11:00:24 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6139)
+INFO 8/18/2021, 11:00:24 AM  synced recovery
+INFO 8/18/2021, 11:00:26 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6137)
+INFO 8/18/2021, 11:00:26 AM  synced recovery
+INFO 8/18/2021, 11:00:28 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6142)
+INFO 8/18/2021, 11:00:28 AM  synced recovery
+INFO 8/18/2021, 11:00:28 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6142)
+INFO 8/18/2021, 11:00:28 AM  synced recovery
+INFO 8/18/2021, 11:00:29 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6148)
+INFO 8/18/2021, 11:00:29 AM  synced recovery
+INFO 8/18/2021, 11:00:30 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6146)
+INFO 8/18/2021, 11:00:30 AM  synced recovery
+INFO 8/18/2021, 11:00:33 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6167)
+INFO 8/18/2021, 11:00:33 AM  synced recovery
+INFO 8/18/2021, 11:00:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6173)
+INFO 8/18/2021, 11:00:34 AM  synced recovery
+INFO 8/18/2021, 11:00:35 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6170)
+INFO 8/18/2021, 11:00:35 AM  synced recovery
+INFO 8/18/2021, 11:00:35 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6169)
+INFO 8/18/2021, 11:00:35 AM  synced recovery
+INFO 8/18/2021, 11:00:36 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6169)
+INFO 8/18/2021, 11:00:36 AM  synced recovery
+INFO 8/18/2021, 11:00:37 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6178)
+INFO 8/18/2021, 11:00:37 AM  synced recovery
+INFO 8/18/2021, 11:00:40 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6199)
+INFO 8/18/2021, 11:00:40 AM  synced recovery
+INFO 8/18/2021, 11:00:42 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6206)
+INFO 8/18/2021, 11:00:43 AM  synced recovery
+INFO 8/18/2021, 11:00:43 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6206)
+INFO 8/18/2021, 11:00:43 AM  synced recovery
+INFO 8/18/2021, 11:00:44 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6213)
+INFO 8/18/2021, 11:00:44 AM  synced recovery
+INFO 8/18/2021, 11:00:46 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6209)
+INFO 8/18/2021, 11:00:46 AM  synced recovery
+INFO 8/18/2021, 11:00:47 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6215)
+INFO 8/18/2021, 11:00:47 AM  synced recovery
+INFO 8/18/2021, 11:00:50 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6212)
+INFO 8/18/2021, 11:00:50 AM  synced recovery
+INFO 8/18/2021, 11:00:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6221)
+INFO 8/18/2021, 11:00:52 AM  synced recovery
+INFO 8/18/2021, 11:00:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6222)
+INFO 8/18/2021, 11:00:52 AM  synced recovery
+INFO 8/18/2021, 11:00:54 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6225)
+INFO 8/18/2021, 11:00:54 AM  synced recovery
+INFO 8/18/2021, 11:00:54 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6224)
+INFO 8/18/2021, 11:00:54 AM  synced recovery
+INFO 8/18/2021, 11:00:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6228)
+INFO 8/18/2021, 11:00:55 AM  synced recovery
+INFO 8/18/2021, 11:00:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6230)
+INFO 8/18/2021, 11:00:55 AM  synced recovery
+INFO 8/18/2021, 11:00:57 AM  [blur] 1
+INFO 8/18/2021, 11:00:57 AM  [win] blur
+INFO 8/18/2021, 11:01:25 AM  [focus] 1
+INFO 8/18/2021, 11:01:27 AM  [blur] 1
+INFO 8/18/2021, 11:01:27 AM  [win] blur
+INFO 8/18/2021, 11:01:33 AM  [focus] 1
+INFO 8/18/2021, 11:01:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6273)
+INFO 8/18/2021, 11:01:34 AM  synced recovery
+INFO 8/18/2021, 11:01:37 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6276)
+INFO 8/18/2021, 11:01:37 AM  synced recovery
+INFO 8/18/2021, 11:01:37 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6277)
+INFO 8/18/2021, 11:01:37 AM  synced recovery
+INFO 8/18/2021, 11:01:40 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6295)
+INFO 8/18/2021, 11:01:40 AM  synced recovery
+INFO 8/18/2021, 11:01:42 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6294)
+INFO 8/18/2021, 11:01:42 AM  synced recovery
+INFO 8/18/2021, 11:01:43 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6294)
+INFO 8/18/2021, 11:01:43 AM  synced recovery
+INFO 8/18/2021, 11:01:44 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6307)
+INFO 8/18/2021, 11:01:44 AM  synced recovery
+INFO 8/18/2021, 11:01:45 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6304)
+INFO 8/18/2021, 11:01:45 AM  synced recovery
+INFO 8/18/2021, 11:01:45 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6306)
+INFO 8/18/2021, 11:01:45 AM  synced recovery
+INFO 8/18/2021, 11:01:46 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6305)
+INFO 8/18/2021, 11:01:46 AM  synced recovery
+INFO 8/18/2021, 11:01:48 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6316)
+INFO 8/18/2021, 11:01:48 AM  synced recovery
+INFO 8/18/2021, 11:01:49 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6313)
+INFO 8/18/2021, 11:01:49 AM  synced recovery
+INFO 8/18/2021, 11:01:51 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6328)
+INFO 8/18/2021, 11:01:51 AM  synced recovery
+INFO 8/18/2021, 11:01:51 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6326)
+INFO 8/18/2021, 11:01:51 AM  synced recovery
+INFO 8/18/2021, 11:01:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6325)
+INFO 8/18/2021, 11:01:52 AM  synced recovery
+INFO 8/18/2021, 11:01:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6327)
+INFO 8/18/2021, 11:01:52 AM  synced recovery
+INFO 8/18/2021, 11:01:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6328)
+INFO 8/18/2021, 11:01:52 AM  synced recovery
+INFO 8/18/2021, 11:01:53 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6332)
+INFO 8/18/2021, 11:01:53 AM  synced recovery
+INFO 8/18/2021, 11:01:53 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6332)
+INFO 8/18/2021, 11:01:53 AM  synced recovery
+INFO 8/18/2021, 11:01:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6338)
+INFO 8/18/2021, 11:01:55 AM  synced recovery
+INFO 8/18/2021, 11:01:55 AM  [blur] 1
+INFO 8/18/2021, 11:01:55 AM  [win] blur
+INFO 8/18/2021, 11:02:04 AM  [focus] 1
+INFO 8/18/2021, 11:02:05 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6373)
+INFO 8/18/2021, 11:02:05 AM  synced recovery
+INFO 8/18/2021, 11:02:06 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6374)
+INFO 8/18/2021, 11:02:06 AM  synced recovery
+INFO 8/18/2021, 11:02:08 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6375)
+INFO 8/18/2021, 11:02:08 AM  synced recovery
+INFO 8/18/2021, 11:02:08 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6374)
+INFO 8/18/2021, 11:02:08 AM  synced recovery
+INFO 8/18/2021, 11:02:10 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6380)
+INFO 8/18/2021, 11:02:10 AM  synced recovery
+INFO 8/18/2021, 11:02:10 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6381)
+INFO 8/18/2021, 11:02:10 AM  synced recovery
+INFO 8/18/2021, 11:02:11 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6385)
+INFO 8/18/2021, 11:02:11 AM  synced recovery
+INFO 8/18/2021, 11:02:11 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6386)
+INFO 8/18/2021, 11:02:11 AM  synced recovery
+INFO 8/18/2021, 11:02:14 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6393)
+INFO 8/18/2021, 11:02:14 AM  synced recovery
+INFO 8/18/2021, 11:02:15 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6392)
+INFO 8/18/2021, 11:02:15 AM  synced recovery
+INFO 8/18/2021, 11:02:16 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6395)
+INFO 8/18/2021, 11:02:16 AM  synced recovery
+INFO 8/18/2021, 11:02:16 AM  [blur] 1
+INFO 8/18/2021, 11:02:16 AM  [win] blur
+INFO 8/18/2021, 11:02:26 AM  [focus] 1
+INFO 8/18/2021, 11:02:27 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6421)
+INFO 8/18/2021, 11:02:27 AM  synced recovery
+INFO 8/18/2021, 11:02:28 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6422)
+INFO 8/18/2021, 11:02:28 AM  synced recovery
+INFO 8/18/2021, 11:02:31 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6442)
+INFO 8/18/2021, 11:02:31 AM  synced recovery
+INFO 8/18/2021, 11:02:31 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6443)
+INFO 8/18/2021, 11:02:31 AM  synced recovery
+INFO 8/18/2021, 11:02:32 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6447)
+INFO 8/18/2021, 11:02:32 AM  synced recovery
+INFO 8/18/2021, 11:02:33 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6445)
+INFO 8/18/2021, 11:02:33 AM  synced recovery
+INFO 8/18/2021, 11:02:34 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6454)
+INFO 8/18/2021, 11:02:34 AM  synced recovery
+INFO 8/18/2021, 11:02:35 AM  [blur] 1
+INFO 8/18/2021, 11:02:35 AM  [win] blur
+INFO 8/18/2021, 11:02:53 AM  [focus] 1
+INFO 8/18/2021, 11:02:54 AM  [blur] 1
+INFO 8/18/2021, 11:02:54 AM  [win] blur
+INFO 8/18/2021, 11:02:59 AM  [focus] 1
+INFO 8/18/2021, 11:03:00 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6497)
+INFO 8/18/2021, 11:03:00 AM  synced recovery
+INFO 8/18/2021, 11:03:02 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6498)
+INFO 8/18/2021, 11:03:02 AM  synced recovery
+INFO 8/18/2021, 11:03:07 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6501)
+INFO 8/18/2021, 11:03:07 AM  synced recovery
+INFO 8/18/2021, 11:03:08 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6502)
+INFO 8/18/2021, 11:03:08 AM  synced recovery
+INFO 8/18/2021, 11:03:08 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6501)
+INFO 8/18/2021, 11:03:08 AM  synced recovery
+INFO 8/18/2021, 11:03:09 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6503)
+INFO 8/18/2021, 11:03:09 AM  synced recovery
+INFO 8/18/2021, 11:03:09 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6502)
+INFO 8/18/2021, 11:03:09 AM  synced recovery
+INFO 8/18/2021, 11:03:09 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6503)
+INFO 8/18/2021, 11:03:09 AM  synced recovery
+INFO 8/18/2021, 11:03:09 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6502)
+INFO 8/18/2021, 11:03:09 AM  synced recovery
+INFO 8/18/2021, 11:03:10 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6502)
+INFO 8/18/2021, 11:03:10 AM  synced recovery
+INFO 8/18/2021, 11:03:10 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6501)
+INFO 8/18/2021, 11:03:10 AM  synced recovery
+INFO 8/18/2021, 11:03:11 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6499)
+INFO 8/18/2021, 11:03:11 AM  synced recovery
+INFO 8/18/2021, 11:03:13 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6499)
+INFO 8/18/2021, 11:03:13 AM  synced recovery
+INFO 8/18/2021, 11:03:13 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6500)
+INFO 8/18/2021, 11:03:13 AM  synced recovery
+INFO 8/18/2021, 11:03:17 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6508)
+INFO 8/18/2021, 11:03:17 AM  synced recovery
+INFO 8/18/2021, 11:03:18 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6517)
+INFO 8/18/2021, 11:03:18 AM  synced recovery
+INFO 8/18/2021, 11:03:29 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6516)
+INFO 8/18/2021, 11:03:29 AM  synced recovery
+INFO 8/18/2021, 11:03:31 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6607)
+INFO 8/18/2021, 11:03:31 AM  synced recovery
+INFO 8/18/2021, 11:03:32 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6515)
+INFO 8/18/2021, 11:03:32 AM  synced recovery
+INFO 8/18/2021, 11:03:39 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6652)
+INFO 8/18/2021, 11:03:39 AM  synced recovery
+INFO 8/18/2021, 11:03:40 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6651)
+INFO 8/18/2021, 11:03:40 AM  synced recovery
+INFO 8/18/2021, 11:03:40 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6652)
+INFO 8/18/2021, 11:03:40 AM  synced recovery
+INFO 8/18/2021, 11:03:44 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6656)
+INFO 8/18/2021, 11:03:44 AM  synced recovery
+INFO 8/18/2021, 11:03:48 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6657)
+INFO 8/18/2021, 11:03:48 AM  synced recovery
+INFO 8/18/2021, 11:03:48 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6656)
+INFO 8/18/2021, 11:03:48 AM  synced recovery
+INFO 8/18/2021, 11:03:49 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6657)
+INFO 8/18/2021, 11:03:49 AM  synced recovery
+INFO 8/18/2021, 11:03:52 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6667)
+INFO 8/18/2021, 11:03:52 AM  synced recovery
+INFO 8/18/2021, 11:03:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6676)
+INFO 8/18/2021, 11:03:55 AM  synced recovery
+INFO 8/18/2021, 11:03:55 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6677)
+INFO 8/18/2021, 11:03:55 AM  synced recovery
+INFO 8/18/2021, 11:04:06 AM  added recovery 1 /home/theo/Writing/theogf.github.io/index.md null (0)
+INFO 8/18/2021, 11:04:06 AM  synced recovery
+INFO 8/18/2021, 11:04:07 AM  synced recovery
+INFO 8/18/2021, 11:04:07 AM  ----------------before-quit-----------------
+INFO 8/18/2021, 11:04:07 AM  ------------------will-quit------------------
+INFO 8/18/2021, 11:04:07 AM  -----------------quit------------------
+INFO 8/18/2021, 11:04:07 AM  closeLogging
+INFO 8/27/2021, 3:10:50 PM  ------------------start------------------
+INFO 8/27/2021, 3:10:50 PM  typora version: 0.11.5
+INFO 8/27/2021, 3:10:50 PM  addRecentDocument
+INFO 8/27/2021, 3:10:50 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md undefined (0)
+INFO 8/27/2021, 3:10:50 PM  [Raven] instanceKey = 8b76d1e1-6f12-49ad-bd98-59ebc1ac72f5
+INFO 8/27/2021, 3:10:50 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 8/27/2021, 3:10:50 PM  [focus] 1
+INFO 8/27/2021, 3:10:50 PM  putAccelerator File -> &File
+INFO 8/27/2021, 3:10:50 PM  putAccelerator Edit -> &Edit
+INFO 8/27/2021, 3:10:50 PM  putAccelerator Paragraph -> &Paragraph
+INFO 8/27/2021, 3:10:50 PM  putAccelerator Format -> F&ormat
+INFO 8/27/2021, 3:10:50 PM  putAccelerator View -> &View
+INFO 8/27/2021, 3:10:50 PM  putAccelerator Themes -> &Themes
+INFO 8/27/2021, 3:10:50 PM  putAccelerator Help -> &Help
+INFO 8/27/2021, 3:10:50 PM  synced recovery
+INFO 8/27/2021, 3:10:50 PM  handle document.loadInitData
+INFO 8/27/2021, 3:10:50 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md undefined (0)
+INFO 8/27/2021, 3:10:50 PM  synced recovery
+INFO 8/27/2021, 3:10:56 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (363)
+INFO 8/27/2021, 3:10:56 PM  synced recovery
+INFO 8/27/2021, 3:10:56 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (364)
+INFO 8/27/2021, 3:10:56 PM  synced recovery
+INFO 8/27/2021, 3:10:56 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (362)
+INFO 8/27/2021, 3:10:56 PM  synced recovery
+INFO 8/27/2021, 3:10:57 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (363)
+INFO 8/27/2021, 3:10:57 PM  synced recovery
+INFO 8/27/2021, 3:11:00 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (368)
+INFO 8/27/2021, 3:11:00 PM  synced recovery
+INFO 8/27/2021, 3:11:01 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (367)
+INFO 8/27/2021, 3:11:01 PM  synced recovery
+INFO 8/27/2021, 3:11:01 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (368)
+INFO 8/27/2021, 3:11:01 PM  synced recovery
+INFO 8/27/2021, 3:11:01 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (368)
+INFO 8/27/2021, 3:11:01 PM  synced recovery
+INFO 8/27/2021, 3:11:01 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (368)
+INFO 8/27/2021, 3:11:01 PM  synced recovery
+INFO 8/27/2021, 3:11:02 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (371)
+INFO 8/27/2021, 3:11:02 PM  synced recovery
+INFO 8/27/2021, 3:11:04 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (371)
+INFO 8/27/2021, 3:11:04 PM  synced recovery
+INFO 8/27/2021, 3:11:04 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (371)
+INFO 8/27/2021, 3:11:04 PM  synced recovery
+INFO 8/27/2021, 3:11:05 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md null (0)
+INFO 8/27/2021, 3:11:05 PM  synced recovery
+INFO 8/27/2021, 3:11:07 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (374)
+INFO 8/27/2021, 3:11:07 PM  synced recovery
+INFO 8/27/2021, 3:11:08 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (376)
+INFO 8/27/2021, 3:11:08 PM  synced recovery
+INFO 8/27/2021, 3:11:09 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (374)
+INFO 8/27/2021, 3:11:09 PM  synced recovery
+INFO 8/27/2021, 3:11:09 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (375)
+INFO 8/27/2021, 3:11:09 PM  synced recovery
+INFO 8/27/2021, 3:11:09 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (380)
+INFO 8/27/2021, 3:11:09 PM  synced recovery
+INFO 8/27/2021, 3:11:09 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (379)
+INFO 8/27/2021, 3:11:09 PM  synced recovery
+INFO 8/27/2021, 3:11:09 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (374)
+INFO 8/27/2021, 3:11:09 PM  synced recovery
+INFO 8/27/2021, 3:11:10 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (375)
+INFO 8/27/2021, 3:11:10 PM  synced recovery
+INFO 8/27/2021, 3:11:10 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (374)
+INFO 8/27/2021, 3:11:10 PM  synced recovery
+INFO 8/27/2021, 3:11:11 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (375)
+INFO 8/27/2021, 3:11:11 PM  synced recovery
+INFO 8/27/2021, 3:11:12 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (376)
+INFO 8/27/2021, 3:11:12 PM  synced recovery
+INFO 8/27/2021, 3:11:12 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (377)
+INFO 8/27/2021, 3:11:12 PM  synced recovery
+INFO 8/27/2021, 3:11:12 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (377)
+INFO 8/27/2021, 3:11:12 PM  synced recovery
+INFO 8/27/2021, 3:11:13 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (377)
+INFO 8/27/2021, 3:11:13 PM  synced recovery
+INFO 8/27/2021, 3:11:13 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (376)
+INFO 8/27/2021, 3:11:13 PM  synced recovery
+INFO 8/27/2021, 3:11:13 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (377)
+INFO 8/27/2021, 3:11:13 PM  synced recovery
+INFO 8/27/2021, 3:11:14 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (381)
+INFO 8/27/2021, 3:11:14 PM  synced recovery
+INFO 8/27/2021, 3:11:15 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (382)
+INFO 8/27/2021, 3:11:15 PM  synced recovery
+INFO 8/27/2021, 3:11:15 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (383)
+INFO 8/27/2021, 3:11:15 PM  synced recovery
+INFO 8/27/2021, 3:11:15 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (383)
+INFO 8/27/2021, 3:11:15 PM  synced recovery
+INFO 8/27/2021, 3:11:16 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (385)
+INFO 8/27/2021, 3:11:16 PM  synced recovery
+INFO 8/27/2021, 3:11:16 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (386)
+INFO 8/27/2021, 3:11:16 PM  synced recovery
+INFO 8/27/2021, 3:11:20 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (410)
+INFO 8/27/2021, 3:11:20 PM  synced recovery
+INFO 8/27/2021, 3:11:21 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (411)
+INFO 8/27/2021, 3:11:21 PM  synced recovery
+INFO 8/27/2021, 3:11:24 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (421)
+INFO 8/27/2021, 3:11:24 PM  synced recovery
+INFO 8/27/2021, 3:11:25 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (429)
+INFO 8/27/2021, 3:11:25 PM  synced recovery
+INFO 8/27/2021, 3:11:25 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (430)
+INFO 8/27/2021, 3:11:25 PM  synced recovery
+INFO 8/27/2021, 3:11:27 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (436)
+INFO 8/27/2021, 3:11:27 PM  synced recovery
+INFO 8/27/2021, 3:11:28 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md null (0)
+INFO 8/27/2021, 3:11:28 PM  synced recovery
+INFO 8/27/2021, 3:11:31 PM  [blur] 1
+INFO 8/27/2021, 3:11:31 PM  [win] blur
+INFO 8/27/2021, 3:12:12 PM  [focus] 1
+INFO 8/27/2021, 3:12:15 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (437)
+INFO 8/27/2021, 3:12:15 PM  synced recovery
+INFO 8/27/2021, 3:12:17 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (438)
+INFO 8/27/2021, 3:12:17 PM  synced recovery
+INFO 8/27/2021, 3:12:17 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (439)
+INFO 8/27/2021, 3:12:17 PM  synced recovery
+INFO 8/27/2021, 3:12:20 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (440)
+INFO 8/27/2021, 3:12:20 PM  synced recovery
+INFO 8/27/2021, 3:12:23 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...Updated 24/07)
+" (442)
+INFO 8/27/2021, 3:12:23 PM  synced recovery
+INFO 8/27/2021, 3:12:23 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...pdated 24/07/)
+" (443)
+INFO 8/27/2021, 3:12:23 PM  synced recovery
+INFO 8/27/2021, 3:12:25 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md null (0)
+INFO 8/27/2021, 3:12:25 PM  synced recovery
+INFO 8/27/2021, 3:12:28 PM  [blur] 1
+INFO 8/27/2021, 3:12:28 PM  [win] blur
+INFO 8/27/2021, 3:12:32 PM  [focus] 1
+INFO 8/27/2021, 3:12:51 PM  [blur] 1
+INFO 8/27/2021, 3:12:51 PM  [win] blur
+INFO 8/27/2021, 3:16:14 PM  got argv [typora /home/theo/Writing/bayesiantribulations/blogposts/unscentedkalmanfilter.md] from secondary instance
+INFO 8/27/2021, 3:16:14 PM  addRecentDocument
+INFO 8/27/2021, 3:16:14 PM  added recovery 2 /home/theo/Writing/bayesiantribulations/blogposts/unscentedkalmanfilter.md undefined (0)
+INFO 8/27/2021, 3:16:14 PM  [focus] 2
+INFO 8/27/2021, 3:16:14 PM  synced recovery
+INFO 8/27/2021, 3:16:15 PM  handle document.loadInitData
+INFO 8/27/2021, 3:16:15 PM  added recovery 2 /home/theo/Writing/bayesiantribulations/blogposts/unscentedkalmanfilter.md undefined (0)
+INFO 8/27/2021, 3:16:15 PM  synced recovery
+INFO 8/27/2021, 3:16:26 PM  got argv [typora /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md] from secondary instance
+INFO 8/27/2021, 3:16:26 PM  addRecentDocument
+INFO 8/27/2021, 3:16:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md undefined (0)
+INFO 8/27/2021, 3:16:26 PM  [focus] 3
+INFO 8/27/2021, 3:16:26 PM  synced recovery
+INFO 8/27/2021, 3:16:26 PM  handle document.loadInitData
+INFO 8/27/2021, 3:16:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md undefined (0)
+INFO 8/27/2021, 3:16:27 PM  synced recovery
+INFO 8/27/2021, 3:16:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "T...ic Integration." (12942)
+INFO 8/27/2021, 3:16:29 PM  synced recovery
+INFO 8/27/2021, 3:16:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "M...ic Integration." (12929)
+INFO 8/27/2021, 3:16:29 PM  synced recovery
+INFO 8/27/2021, 3:16:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = ""...ic Integration." (12928)
+INFO 8/27/2021, 3:16:30 PM  synced recovery
+INFO 8/27/2021, 3:16:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12929)
+INFO 8/27/2021, 3:16:30 PM  synced recovery
+INFO 8/27/2021, 3:16:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12939)
+INFO 8/27/2021, 3:16:31 PM  synced recovery
+INFO 8/27/2021, 3:16:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12937)
+INFO 8/27/2021, 3:16:32 PM  synced recovery
+INFO 8/27/2021, 3:16:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12941)
+INFO 8/27/2021, 3:16:33 PM  synced recovery
+INFO 8/27/2021, 3:16:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12942)
+INFO 8/27/2021, 3:16:33 PM  synced recovery
+INFO 8/27/2021, 3:16:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ascode = true
+
+" (134)
+INFO 8/27/2021, 3:16:42 PM  synced recovery
+INFO 8/27/2021, 3:16:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ic Integration." (12955)
+INFO 8/27/2021, 3:16:44 PM  synced recovery
+INFO 8/27/2021, 3:16:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ascode = true
+
+" (134)
+INFO 8/27/2021, 3:16:45 PM  synced recovery
+INFO 8/27/2021, 3:16:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...scode = true
+
+#" (135)
+INFO 8/27/2021, 3:16:45 PM  synced recovery
+INFO 8/27/2021, 3:16:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... true
+
+# Messag" (142)
+INFO 8/27/2021, 3:16:47 PM  synced recovery
+INFO 8/27/2021, 3:16:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ode = true
+
+# B" (137)
+INFO 8/27/2021, 3:16:47 PM  synced recovery
+INFO 8/27/2021, 3:16:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ode = true
+
+# B" (137)
+INFO 8/27/2021, 3:16:48 PM  synced recovery
+INFO 8/27/2021, 3:16:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ode = true
+
+# V" (137)
+INFO 8/27/2021, 3:16:48 PM  synced recovery
+INFO 8/27/2021, 3:16:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...al Message Pass" (160)
+INFO 8/27/2021, 3:16:51 PM  synced recovery
+INFO 8/27/2021, 3:16:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ssage Passing
+
+" (165)
+INFO 8/27/2021, 3:16:52 PM  synced recovery
+INFO 8/27/2021, 3:16:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...sage Passing
+
+V" (166)
+INFO 8/27/2021, 3:16:55 PM  synced recovery
+INFO 8/27/2021, 3:16:59 PM  [blur] 3
+INFO 8/27/2021, 3:16:59 PM  [win] blur
+INFO 8/27/2021, 3:33:37 PM  [focus] 3
+INFO 8/27/2021, 3:33:38 PM  [blur] 3
+INFO 8/27/2021, 3:33:38 PM  [win] blur
+INFO 8/27/2021, 3:33:38 PM  [focus] 1
+INFO 8/27/2021, 3:33:40 PM  added recovery 1 /home/theo/Writing/bayesiantribulations/blogposts.md null (0)
+INFO 8/27/2021, 3:33:40 PM  synced recovery
+INFO 8/27/2021, 3:33:41 PM  [focus] 3
+INFO 8/27/2021, 3:33:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e Passing
+
+Vari" (169)
+INFO 8/27/2021, 3:33:42 PM  synced recovery
+INFO 8/27/2021, 3:33:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e Passing
+
+Vari" (169)
+INFO 8/27/2021, 3:33:47 PM  synced recovery
+INFO 8/27/2021, 3:33:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... Passing
+
+Varii" (170)
+INFO 8/27/2021, 3:33:48 PM  synced recovery
+INFO 8/27/2021, 3:33:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...sing
+
+Variiatio" (174)
+INFO 8/27/2021, 3:33:48 PM  synced recovery
+INFO 8/27/2021, 3:33:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... Passing
+
+Varia" (170)
+INFO 8/27/2021, 3:33:49 PM  synced recovery
+INFO 8/27/2021, 3:33:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tional inferene" (185)
+INFO 8/27/2021, 3:33:52 PM  synced recovery
+INFO 8/27/2021, 3:33:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tional inferenc" (185)
+INFO 8/27/2021, 3:33:53 PM  synced recovery
+INFO 8/27/2021, 3:33:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nference is a p" (193)
+INFO 8/27/2021, 3:33:54 PM  synced recovery
+INFO 8/27/2021, 3:33:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ference is a po" (194)
+INFO 8/27/2021, 3:33:54 PM  synced recovery
+INFO 8/27/2021, 3:33:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...rence is a popu" (196)
+INFO 8/27/2021, 3:33:55 PM  synced recovery
+INFO 8/27/2021, 3:33:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ence is a popul" (197)
+INFO 8/27/2021, 3:33:55 PM  synced recovery
+INFO 8/27/2021, 3:33:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ar in Bayesian " (212)
+INFO 8/27/2021, 3:33:58 PM  synced recovery
+INFO 8/27/2021, 3:33:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r in Bayesian m" (213)
+INFO 8/27/2021, 3:33:59 PM  synced recovery
+INFO 8/27/2021, 3:34:00 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian mahcibe " (220)
+INFO 8/27/2021, 3:34:00 PM  synced recovery
+INFO 8/27/2021, 3:34:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...Bayesian mahcin" (218)
+INFO 8/27/2021, 3:34:01 PM  synced recovery
+INFO 8/27/2021, 3:34:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... Bayesian mahci" (217)
+INFO 8/27/2021, 3:34:01 PM  synced recovery
+INFO 8/27/2021, 3:34:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...in Bayesian mac" (215)
+INFO 8/27/2021, 3:34:01 PM  synced recovery
+INFO 8/27/2021, 3:34:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian machine " (225)
+INFO 8/27/2021, 3:34:05 PM  synced recovery
+INFO 8/27/2021, 3:34:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian machine " (235)
+INFO 8/27/2021, 3:34:06 PM  synced recovery
+INFO 8/27/2021, 3:34:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian machine " (235)
+INFO 8/27/2021, 3:34:08 PM  synced recovery
+INFO 8/27/2021, 3:34:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian machine " (243)
+INFO 8/27/2021, 3:34:14 PM  synced recovery
+INFO 8/27/2021, 3:34:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...yesian machine " (246)
+INFO 8/27/2021, 3:34:14 PM  synced recovery
+INFO 8/27/2021, 3:34:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ine thanks to t" (258)
+INFO 8/27/2021, 3:34:18 PM  synced recovery
+INFO 8/27/2021, 3:34:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ine thanks to t" (258)
+INFO 8/27/2021, 3:34:19 PM  synced recovery
+INFO 8/27/2021, 3:34:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ine thanks to i" (258)
+INFO 8/27/2021, 3:34:19 PM  synced recovery
+INFO 8/27/2021, 3:34:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...thanks to its s" (262)
+INFO 8/27/2021, 3:34:20 PM  synced recovery
+INFO 8/27/2021, 3:34:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...thanks to its u" (262)
+INFO 8/27/2021, 3:34:21 PM  synced recovery
+INFO 8/27/2021, 3:34:23 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... its usual spee" (271)
+INFO 8/27/2021, 3:34:23 PM  synced recovery
+INFO 8/27/2021, 3:34:23 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...its usual speed" (272)
+INFO 8/27/2021, 3:34:23 PM  synced recovery
+INFO 8/27/2021, 3:34:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...eed of converge" (284)
+INFO 8/27/2021, 3:34:25 PM  synced recovery
+INFO 8/27/2021, 3:34:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed of convergee" (285)
+INFO 8/27/2021, 3:34:25 PM  synced recovery
+INFO 8/27/2021, 3:34:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed of convergee" (285)
+INFO 8/27/2021, 3:34:26 PM  synced recovery
+INFO 8/27/2021, 3:34:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed of convergec" (285)
+INFO 8/27/2021, 3:34:26 PM  synced recovery
+INFO 8/27/2021, 3:34:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed of convergec" (285)
+INFO 8/27/2021, 3:34:26 PM  synced recovery
+INFO 8/27/2021, 3:34:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed of convergen" (285)
+INFO 8/27/2021, 3:34:27 PM  synced recovery
+INFO 8/27/2021, 3:34:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... convergence.
+
+" (290)
+INFO 8/27/2021, 3:34:28 PM  synced recovery
+INFO 8/27/2021, 3:34:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...of convergence." (288)
+INFO 8/27/2021, 3:34:29 PM  synced recovery
+INFO 8/27/2021, 3:34:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...f convergence. " (289)
+INFO 8/27/2021, 3:34:32 PM  synced recovery
+INFO 8/27/2021, 3:34:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...convergence. It" (291)
+INFO 8/27/2021, 3:34:34 PM  synced recovery
+INFO 8/27/2021, 3:34:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...f convergence. " (289)
+INFO 8/27/2021, 3:34:36 PM  synced recovery
+INFO 8/27/2021, 3:34:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...convergence. It" (291)
+INFO 8/27/2021, 3:34:37 PM  synced recovery
+INFO 8/27/2021, 3:34:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...onvergence. Its" (292)
+INFO 8/27/2021, 3:34:37 PM  synced recovery
+INFO 8/27/2021, 3:34:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V.... Its principle" (302)
+INFO 8/27/2021, 3:34:41 PM  synced recovery
+INFO 8/27/2021, 3:34:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... principle is q" (307)
+INFO 8/27/2021, 3:34:44 PM  synced recovery
+INFO 8/27/2021, 3:34:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s quite simple," (319)
+INFO 8/27/2021, 3:34:46 PM  synced recovery
+INFO 8/27/2021, 3:34:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... quite simple, " (320)
+INFO 8/27/2021, 3:34:47 PM  synced recovery
+INFO 8/27/2021, 3:34:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...imple, given a " (328)
+INFO 8/27/2021, 3:34:50 PM  synced recovery
+INFO 8/27/2021, 3:34:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...mple, given a d" (329)
+INFO 8/27/2021, 3:34:50 PM  synced recovery
+INFO 8/27/2021, 3:34:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...mple, given a d" (329)
+INFO 8/27/2021, 3:34:51 PM  synced recovery
+INFO 8/27/2021, 3:34:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e simple, given" (325)
+INFO 8/27/2021, 3:34:52 PM  synced recovery
+INFO 8/27/2021, 3:34:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...get distributio" (346)
+INFO 8/27/2021, 3:34:55 PM  synced recovery
+INFO 8/27/2021, 3:34:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...stribution $p()" (352)
+INFO 8/27/2021, 3:34:58 PM  synced recovery
+INFO 8/27/2021, 3:34:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tribution $p(x)" (353)
+INFO 8/27/2021, 3:34:58 PM  synced recovery
+INFO 8/27/2021, 3:34:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tribution $p(x)" (353)
+INFO 8/27/2021, 3:34:59 PM  synced recovery
+INFO 8/27/2021, 3:34:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ribution $p(x)$" (354)
+INFO 8/27/2021, 3:34:59 PM  synced recovery
+INFO 8/27/2021, 3:35:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x)$ one tries t" (366)
+INFO 8/27/2021, 3:35:02 PM  synced recovery
+INFO 8/27/2021, 3:35:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tries to find a" (374)
+INFO 8/27/2021, 3:35:06 PM  synced recovery
+INFO 8/27/2021, 3:35:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x)$ one tries " (365)
+INFO 8/27/2021, 3:35:09 PM  synced recovery
+INFO 8/27/2021, 3:35:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x)$ one tries " (365)
+INFO 8/27/2021, 3:35:10 PM  synced recovery
+INFO 8/27/2021, 3:35:13 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... find the optim" (382)
+INFO 8/27/2021, 3:35:13 PM  synced recovery
+INFO 8/27/2021, 3:35:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ind the optimis" (384)
+INFO 8/27/2021, 3:35:14 PM  synced recovery
+INFO 8/27/2021, 3:35:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ind the optimiz" (384)
+INFO 8/27/2021, 3:35:14 PM  synced recovery
+INFO 8/27/2021, 3:35:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...he optimize a f" (389)
+INFO 8/27/2021, 3:35:16 PM  synced recovery
+INFO 8/27/2021, 3:35:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...es to find the " (377)
+INFO 8/27/2021, 3:35:19 PM  synced recovery
+INFO 8/27/2021, 3:35:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tries to find t" (374)
+INFO 8/27/2021, 3:35:20 PM  synced recovery
+INFO 8/27/2021, 3:35:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e distribution " (390)
+INFO 8/27/2021, 3:35:22 PM  synced recovery
+INFO 8/27/2021, 3:35:23 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... distribution b" (391)
+INFO 8/27/2021, 3:35:23 PM  synced recovery
+INFO 8/27/2021, 3:35:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... to a certain f" (414)
+INFO 8/27/2021, 3:35:27 PM  synced recovery
+INFO 8/27/2021, 3:35:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (421)
+INFO 8/27/2021, 3:35:33 PM  synced recovery
+INFO 8/27/2021, 3:35:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (425)
+INFO 8/27/2021, 3:35:34 PM  synced recovery
+INFO 8/27/2021, 3:35:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (426)
+INFO 8/27/2021, 3:35:34 PM  synced recovery
+INFO 8/27/2021, 3:35:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (427)
+INFO 8/27/2021, 3:35:35 PM  synced recovery
+INFO 8/27/2021, 3:35:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (426)
+INFO 8/27/2021, 3:35:36 PM  synced recovery
+INFO 8/27/2021, 3:35:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...certain family " (427)
+INFO 8/27/2021, 3:35:36 PM  synced recovery
+INFO 8/27/2021, 3:35:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...rtain family qh" (429)
+INFO 8/27/2021, 3:35:37 PM  synced recovery
+INFO 8/27/2021, 3:35:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ertain family w" (428)
+INFO 8/27/2021, 3:35:38 PM  synced recovery
+INFO 8/27/2021, 3:35:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... family which m" (434)
+INFO 8/27/2021, 3:35:46 PM  synced recovery
+INFO 8/27/2021, 3:35:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ily which minim" (438)
+INFO 8/27/2021, 3:35:48 PM  synced recovery
+INFO 8/27/2021, 3:35:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ly which minimi" (439)
+INFO 8/27/2021, 3:35:48 PM  synced recovery
+INFO 8/27/2021, 3:35:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ly which minimi" (439)
+INFO 8/27/2021, 3:35:49 PM  synced recovery
+INFO 8/27/2021, 3:35:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...y which minimiz" (440)
+INFO 8/27/2021, 3:35:49 PM  synced recovery
+INFO 8/27/2021, 3:35:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...mizes a give n " (452)
+INFO 8/27/2021, 3:35:52 PM  synced recovery
+INFO 8/27/2021, 3:35:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nimizes a given" (450)
+INFO 8/27/2021, 3:35:52 PM  synced recovery
+INFO 8/27/2021, 3:35:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...a given metric." (458)
+INFO 8/27/2021, 3:35:58 PM  synced recovery
+INFO 8/27/2021, 3:36:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... most known ins" (477)
+INFO 8/27/2021, 3:36:01 PM  synced recovery
+INFO 8/27/2021, 3:36:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...stance if the t" (491)
+INFO 8/27/2021, 3:36:04 PM  synced recovery
+INFO 8/27/2021, 3:36:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...stance if the $" (491)
+INFO 8/27/2021, 3:36:04 PM  synced recovery
+INFO 8/27/2021, 3:36:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tance if the $K" (492)
+INFO 8/27/2021, 3:36:05 PM  synced recovery
+INFO 8/27/2021, 3:36:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nstance if the " (490)
+INFO 8/27/2021, 3:36:06 PM  synced recovery
+INFO 8/27/2021, 3:36:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ance if the KL-" (493)
+INFO 8/27/2021, 3:36:07 PM  synced recovery
+INFO 8/27/2021, 3:36:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nce if the KL-d" (494)
+INFO 8/27/2021, 3:36:08 PM  synced recovery
+INFO 8/27/2021, 3:36:11 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...KL-divergence $" (505)
+INFO 8/27/2021, 3:36:11 PM  synced recovery
+INFO 8/27/2021, 3:36:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... KL-divergence," (504)
+INFO 8/27/2021, 3:36:14 PM  synced recovery
+INFO 8/27/2021, 3:36:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...gence, defined " (513)
+INFO 8/27/2021, 3:36:15 PM  synced recovery
+INFO 8/27/2021, 3:36:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ence, defined b" (514)
+INFO 8/27/2021, 3:36:15 PM  synced recovery
+INFO 8/27/2021, 3:36:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e, defined by $" (517)
+INFO 8/27/2021, 3:36:18 PM  synced recovery
+INFO 8/27/2021, 3:36:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V..., defined by $\" (518)
+INFO 8/27/2021, 3:36:18 PM  synced recovery
+INFO 8/27/2021, 3:36:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ned by $\text{}" (524)
+INFO 8/27/2021, 3:36:19 PM  synced recovery
+INFO 8/27/2021, 3:36:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed by $\text{C}" (525)
+INFO 8/27/2021, 3:36:19 PM  synced recovery
+INFO 8/27/2021, 3:36:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ned by $\text{}" (524)
+INFO 8/27/2021, 3:36:19 PM  synced recovery
+INFO 8/27/2021, 3:36:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed by $\text{K}" (525)
+INFO 8/27/2021, 3:36:20 PM  synced recovery
+INFO 8/27/2021, 3:36:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...by $\text{KL}()" (528)
+INFO 8/27/2021, 3:36:21 PM  synced recovery
+INFO 8/27/2021, 3:36:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...y $\text{KL}(p)" (529)
+INFO 8/27/2021, 3:36:22 PM  synced recovery
+INFO 8/27/2021, 3:36:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...by $\text{KL}()" (528)
+INFO 8/27/2021, 3:36:22 PM  synced recovery
+INFO 8/27/2021, 3:36:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...y $\text{KL}(q)" (529)
+INFO 8/27/2021, 3:36:22 PM  synced recovery
+INFO 8/27/2021, 3:36:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...text{KL}(q||p) " (533)
+INFO 8/27/2021, 3:36:26 PM  synced recovery
+INFO 8/27/2021, 3:36:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...||p) = \int p()" (543)
+INFO 8/27/2021, 3:36:28 PM  synced recovery
+INFO 8/27/2021, 3:36:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(q||p) = \int p" (541)
+INFO 8/27/2021, 3:36:29 PM  synced recovery
+INFO 8/27/2021, 3:36:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...}(q||p) = \int " (540)
+INFO 8/27/2021, 3:36:29 PM  synced recovery
+INFO 8/27/2021, 3:36:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...||p) = \int q()" (543)
+INFO 8/27/2021, 3:36:30 PM  synced recovery
+INFO 8/27/2021, 3:36:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...|p) = \int q(x)" (544)
+INFO 8/27/2021, 3:36:31 PM  synced recovery
+INFO 8/27/2021, 3:36:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\int q(x) \log " (550)
+INFO 8/27/2021, 3:36:34 PM  synced recovery
+INFO 8/27/2021, 3:36:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nt q(x) \log ()" (552)
+INFO 8/27/2021, 3:36:35 PM  synced recovery
+INFO 8/27/2021, 3:36:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t q(x) \log (q)" (553)
+INFO 8/27/2021, 3:36:36 PM  synced recovery
+INFO 8/27/2021, 3:36:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x) \log (q())" (555)
+INFO 8/27/2021, 3:36:36 PM  synced recovery
+INFO 8/27/2021, 3:36:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x) \log (q(x))" (556)
+INFO 8/27/2021, 3:36:36 PM  synced recovery
+INFO 8/27/2021, 3:36:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...og (q(x) - p())" (562)
+INFO 8/27/2021, 3:36:38 PM  synced recovery
+INFO 8/27/2021, 3:36:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...g (q(x) - p(x))" (563)
+INFO 8/27/2021, 3:36:38 PM  synced recovery
+INFO 8/27/2021, 3:36:43 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x) - p(x)) dx$" (567)
+INFO 8/27/2021, 3:36:43 PM  synced recovery
+INFO 8/27/2021, 3:36:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 3:36:44 PM  synced recovery
+INFO 8/27/2021, 3:36:47 PM  [blur] 3
+INFO 8/27/2021, 3:36:47 PM  [win] blur
+INFO 8/27/2021, 5:39:32 PM  [focus] 3
+INFO 8/27/2021, 5:39:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x) - p(x)) dx$" (567)
+INFO 8/27/2021, 5:39:33 PM  synced recovery
+INFO 8/27/2021, 5:39:35 PM  [blur] 3
+INFO 8/27/2021, 5:39:35 PM  [win] blur
+INFO 8/27/2021, 5:40:14 PM  [focus] 3
+INFO 8/27/2021, 5:40:15 PM  [blur] 3
+INFO 8/27/2021, 5:40:15 PM  [win] blur
+INFO 8/27/2021, 5:41:05 PM  [focus] 3
+INFO 8/27/2021, 5:41:07 PM  [blur] 3
+INFO 8/27/2021, 5:41:07 PM  [win] blur
+INFO 8/27/2021, 5:44:25 PM  [focus] 3
+INFO 8/27/2021, 5:44:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...) - p(x)) dx$
+
+" (571)
+INFO 8/27/2021, 5:44:30 PM  synced recovery
+INFO 8/27/2021, 5:44:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...) - p(x)) dx$
+
+" (572)
+INFO 8/27/2021, 5:44:30 PM  synced recovery
+INFO 8/27/2021, 5:44:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x) - p(x)) dx
+
+" (572)
+INFO 8/27/2021, 5:44:31 PM  synced recovery
+INFO 8/27/2021, 5:44:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...) - p(x)) dx$
+
+" (573)
+INFO 8/27/2021, 5:44:32 PM  synced recovery
+INFO 8/27/2021, 5:44:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - p(x)) dx$$
+
+" (573)
+INFO 8/27/2021, 5:44:33 PM  synced recovery
+INFO 8/27/2021, 5:44:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:44:33 PM  synced recovery
+INFO 8/27/2021, 5:44:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... p(x)) dx$$
+
+
+
+" (575)
+INFO 8/27/2021, 5:44:35 PM  synced recovery
+INFO 8/27/2021, 5:44:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - p(x)) dx$$
+
+" (573)
+INFO 8/27/2021, 5:44:36 PM  synced recovery
+INFO 8/27/2021, 5:44:43 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...- p(x)) dx$$
+
+T" (574)
+INFO 8/27/2021, 5:44:43 PM  synced recovery
+INFO 8/27/2021, 5:44:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - p(x)) dx$$
+
+" (573)
+INFO 8/27/2021, 5:44:44 PM  synced recovery
+INFO 8/27/2021, 5:44:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x) - p(x)) dx$$" (571)
+INFO 8/27/2021, 5:44:44 PM  synced recovery
+INFO 8/27/2021, 5:44:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - p(x)) dx$$
+
+" (573)
+INFO 8/27/2021, 5:44:45 PM  synced recovery
+INFO 8/27/2021, 5:44:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...- p(x)) dx$$
+
+I" (574)
+INFO 8/27/2021, 5:44:47 PM  synced recovery
+INFO 8/27/2021, 5:44:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ther terms we l" (592)
+INFO 8/27/2021, 5:44:50 PM  synced recovery
+INFO 8/27/2021, 5:44:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...other terms we " (591)
+INFO 8/27/2021, 5:44:50 PM  synced recovery
+INFO 8/27/2021, 5:44:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ther terms we a" (592)
+INFO 8/27/2021, 5:44:51 PM  synced recovery
+INFO 8/27/2021, 5:44:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...re looking for " (607)
+INFO 8/27/2021, 5:44:54 PM  synced recovery
+INFO 8/27/2021, 5:44:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ther terms we t" (592)
+INFO 8/27/2021, 5:44:55 PM  synced recovery
+INFO 8/27/2021, 5:44:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ve the followin" (616)
+INFO 8/27/2021, 5:44:58 PM  synced recovery
+INFO 8/27/2021, 5:44:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e the following" (617)
+INFO 8/27/2021, 5:44:59 PM  synced recovery
+INFO 8/27/2021, 5:45:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ation problem
+
+" (640)
+INFO 8/27/2021, 5:45:01 PM  synced recovery
+INFO 8/27/2021, 5:45:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ion problem
+
+
+
+" (642)
+INFO 8/27/2021, 5:45:01 PM  synced recovery
+INFO 8/27/2021, 5:45:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ation problem
+
+" (640)
+INFO 8/27/2021, 5:45:02 PM  synced recovery
+INFO 8/27/2021, 5:45:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tion problem
+
+$" (641)
+INFO 8/27/2021, 5:45:02 PM  synced recovery
+INFO 8/27/2021, 5:45:03 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ion problem
+
+$$" (642)
+INFO 8/27/2021, 5:45:03 PM  synced recovery
+INFO 8/27/2021, 5:45:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...on problem
+
+$$\" (643)
+INFO 8/27/2021, 5:45:05 PM  synced recovery
+INFO 8/27/2021, 5:45:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...n problem
+
+$$\a" (644)
+INFO 8/27/2021, 5:45:06 PM  synced recovery
+INFO 8/27/2021, 5:45:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... problem
+
+$$\aa" (645)
+INFO 8/27/2021, 5:45:06 PM  synced recovery
+INFO 8/27/2021, 5:45:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...problem
+
+$$\aar" (646)
+INFO 8/27/2021, 5:45:07 PM  synced recovery
+INFO 8/27/2021, 5:45:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... problem
+
+$$\ar" (645)
+INFO 8/27/2021, 5:45:07 PM  synced recovery
+INFO 8/27/2021, 5:45:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...m
+
+$$\arg_ \max" (652)
+INFO 8/27/2021, 5:45:16 PM  synced recovery
+INFO 8/27/2021, 5:45:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+$$\arg_{} \max" (654)
+INFO 8/27/2021, 5:45:16 PM  synced recovery
+INFO 8/27/2021, 5:45:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$$\arg_{q} \max" (655)
+INFO 8/27/2021, 5:45:16 PM  synced recovery
+INFO 8/27/2021, 5:45:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$$\arg_{q} \max" (655)
+INFO 8/27/2021, 5:45:18 PM  synced recovery
+INFO 8/27/2021, 5:45:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\arg_{q } \max" (656)
+INFO 8/27/2021, 5:45:18 PM  synced recovery
+INFO 8/27/2021, 5:45:23 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V..._{q \in \} \max" (661)
+INFO 8/27/2021, 5:45:23 PM  synced recovery
+INFO 8/27/2021, 5:45:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...mathcal{}} \max" (670)
+INFO 8/27/2021, 5:45:25 PM  synced recovery
+INFO 8/27/2021, 5:45:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...athcal{Q}} \max" (671)
+INFO 8/27/2021, 5:45:25 PM  synced recovery
+INFO 8/27/2021, 5:45:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...thcal{Q}} \max$" (672)
+INFO 8/27/2021, 5:45:26 PM  synced recovery
+INFO 8/27/2021, 5:45:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:45:27 PM  synced recovery
+INFO 8/27/2021, 5:45:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...cal{Q}} \max $$" (674)
+INFO 8/27/2021, 5:45:29 PM  synced recovery
+INFO 8/27/2021, 5:45:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...Q}} \max KL()$$" (678)
+INFO 8/27/2021, 5:45:31 PM  synced recovery
+INFO 8/27/2021, 5:45:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...l{Q}} \max KL$$" (676)
+INFO 8/27/2021, 5:45:32 PM  synced recovery
+INFO 8/27/2021, 5:45:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...al{Q}} \max \$$" (675)
+INFO 8/27/2021, 5:45:32 PM  synced recovery
+INFO 8/27/2021, 5:45:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... \max \text{}$$" (681)
+INFO 8/27/2021, 5:45:33 PM  synced recovery
+INFO 8/27/2021, 5:45:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\max \text{K}$$" (682)
+INFO 8/27/2021, 5:45:34 PM  synced recovery
+INFO 8/27/2021, 5:45:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x \text{KL}()$$" (685)
+INFO 8/27/2021, 5:45:35 PM  synced recovery
+INFO 8/27/2021, 5:45:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... \text{KL}(q)$$" (686)
+INFO 8/27/2021, 5:45:36 PM  synced recovery
+INFO 8/27/2021, 5:45:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ext{KL}(q||p)$$" (689)
+INFO 8/27/2021, 5:45:39 PM  synced recovery
+INFO 8/27/2021, 5:45:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:45:40 PM  synced recovery
+INFO 8/27/2021, 5:45:43 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{KL}(q||p)$$
+
+T" (692)
+INFO 8/27/2021, 5:45:43 PM  synced recovery
+INFO 8/27/2021, 5:45:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$
+
+Typically $$" (703)
+INFO 8/27/2021, 5:45:46 PM  synced recovery
+INFO 8/27/2021, 5:45:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+Typically $$\a" (705)
+INFO 8/27/2021, 5:45:47 PM  synced recovery
+INFO 8/27/2021, 5:45:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$
+
+Typically $\" (703)
+INFO 8/27/2021, 5:45:48 PM  synced recovery
+INFO 8/27/2021, 5:45:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\mathcal{}" (712)
+INFO 8/27/2021, 5:45:49 PM  synced recovery
+INFO 8/27/2021, 5:45:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ly $\mathcal{!}" (713)
+INFO 8/27/2021, 5:45:49 PM  synced recovery
+INFO 8/27/2021, 5:45:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\mathcal{!" (712)
+INFO 8/27/2021, 5:45:50 PM  synced recovery
+INFO 8/27/2021, 5:45:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\mathcal{A" (712)
+INFO 8/27/2021, 5:45:50 PM  synced recovery
+INFO 8/27/2021, 5:45:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\mathcal{A" (712)
+INFO 8/27/2021, 5:45:50 PM  synced recovery
+INFO 8/27/2021, 5:45:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\mathcal{Q" (712)
+INFO 8/27/2021, 5:45:51 PM  synced recovery
+INFO 8/27/2021, 5:45:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ly $\mathcal{Q}" (713)
+INFO 8/27/2021, 5:45:51 PM  synced recovery
+INFO 8/27/2021, 5:45:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...athcal{Q}$ is a" (719)
+INFO 8/27/2021, 5:45:54 PM  synced recovery
+INFO 8/27/2021, 5:45:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\mathcal{Q}$ i" (716)
+INFO 8/27/2021, 5:45:55 PM  synced recovery
+INFO 8/27/2021, 5:45:57 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...thcal{Q}$ is a " (720)
+INFO 8/27/2021, 5:45:57 PM  synced recovery
+INFO 8/27/2021, 5:45:57 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...hcal{Q}$ is a c" (721)
+INFO 8/27/2021, 5:45:57 PM  synced recovery
+INFO 8/27/2021, 5:46:00 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s of distributi" (739)
+INFO 8/27/2021, 5:46:00 PM  synced recovery
+INFO 8/27/2021, 5:46:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...rametrized by i" (759)
+INFO 8/27/2021, 5:46:05 PM  synced recovery
+INFO 8/27/2021, 5:46:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...its parameters " (773)
+INFO 8/27/2021, 5:46:08 PM  synced recovery
+INFO 8/27/2021, 5:46:11 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\theta$. A con" (788)
+INFO 8/27/2021, 5:46:11 PM  synced recovery
+INFO 8/27/2021, 5:46:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ample of that w" (811)
+INFO 8/27/2021, 5:46:15 PM  synced recovery
+INFO 8/27/2021, 5:46:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t would be tot " (823)
+INFO 8/27/2021, 5:46:17 PM  synced recovery
+INFO 8/27/2021, 5:46:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...at would be to " (822)
+INFO 8/27/2021, 5:46:17 PM  synced recovery
+INFO 8/27/2021, 5:46:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...take $\mathcalQ" (837)
+INFO 8/27/2021, 5:46:20 PM  synced recovery
+INFO 8/27/2021, 5:46:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... take $\mathcal" (836)
+INFO 8/27/2021, 5:46:20 PM  synced recovery
+INFO 8/27/2021, 5:46:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ake $\mathcal{}" (838)
+INFO 8/27/2021, 5:46:20 PM  synced recovery
+INFO 8/27/2021, 5:46:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ke $\mathcal{Q}" (839)
+INFO 8/27/2021, 5:46:21 PM  synced recovery
+INFO 8/27/2021, 5:46:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e $\mathcal{Q}$" (840)
+INFO 8/27/2021, 5:46:21 PM  synced recovery
+INFO 8/27/2021, 5:46:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\mathcal{Q}$ a" (842)
+INFO 8/27/2021, 5:46:22 PM  synced recovery
+INFO 8/27/2021, 5:46:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... $\mathcal{Q}$ " (841)
+INFO 8/27/2021, 5:46:26 PM  synced recovery
+INFO 8/27/2021, 5:46:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\mathcal{Q}$ a" (842)
+INFO 8/27/2021, 5:46:27 PM  synced recovery
+INFO 8/27/2021, 5:46:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...cal{Q}$ as  the" (848)
+INFO 8/27/2021, 5:46:28 PM  synced recovery
+INFO 8/27/2021, 5:46:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...athcal{Q}$ as t" (845)
+INFO 8/27/2021, 5:46:28 PM  synced recovery
+INFO 8/27/2021, 5:46:47 PM  [blur] 3
+INFO 8/27/2021, 5:46:47 PM  [win] blur
+INFO 8/27/2021, 5:51:34 PM  [focus] 3
+INFO 8/27/2021, 5:51:35 PM  [blur] 3
+INFO 8/27/2021, 5:51:35 PM  [win] blur
+INFO 8/27/2021, 5:51:36 PM  [focus] 3
+INFO 8/27/2021, 5:51:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (855)
+INFO 8/27/2021, 5:51:36 PM  synced recovery
+INFO 8/27/2021, 5:51:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (855)
+INFO 8/27/2021, 5:51:37 PM  synced recovery
+INFO 8/27/2021, 5:51:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (854)
+INFO 8/27/2021, 5:51:39 PM  synced recovery
+INFO 8/27/2021, 5:51:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (853)
+INFO 8/27/2021, 5:51:40 PM  synced recovery
+INFO 8/27/2021, 5:51:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (852)
+INFO 8/27/2021, 5:51:44 PM  synced recovery
+INFO 8/27/2021, 5:51:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (849)
+INFO 8/27/2021, 5:51:46 PM  synced recovery
+INFO 8/27/2021, 5:51:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (852)
+INFO 8/27/2021, 5:51:46 PM  synced recovery
+INFO 8/27/2021, 5:51:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (853)
+INFO 8/27/2021, 5:51:48 PM  synced recovery
+INFO 8/27/2021, 5:51:56 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (855)
+INFO 8/27/2021, 5:51:56 PM  synced recovery
+INFO 8/27/2021, 5:51:57 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (860)
+INFO 8/27/2021, 5:51:57 PM  synced recovery
+INFO 8/27/2021, 5:51:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (859)
+INFO 8/27/2021, 5:51:58 PM  synced recovery
+INFO 8/27/2021, 5:51:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (863)
+INFO 8/27/2021, 5:51:59 PM  synced recovery
+INFO 8/27/2021, 5:52:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (865)
+INFO 8/27/2021, 5:52:01 PM  synced recovery
+INFO 8/27/2021, 5:52:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (866)
+INFO 8/27/2021, 5:52:02 PM  synced recovery
+INFO 8/27/2021, 5:52:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (866)
+INFO 8/27/2021, 5:52:04 PM  synced recovery
+INFO 8/27/2021, 5:52:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (866)
+INFO 8/27/2021, 5:52:05 PM  synced recovery
+INFO 8/27/2021, 5:52:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (866)
+INFO 8/27/2021, 5:52:06 PM  synced recovery
+INFO 8/27/2021, 5:52:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (867)
+INFO 8/27/2021, 5:52:06 PM  synced recovery
+INFO 8/27/2021, 5:52:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... as the family " (871)
+INFO 8/27/2021, 5:52:07 PM  synced recovery
+INFO 8/27/2021, 5:52:11 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V..., S)\}$ as the " (864)
+INFO 8/27/2021, 5:52:11 PM  synced recovery
+INFO 8/27/2021, 5:52:12 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...al{N}(m, S)\}$," (857)
+INFO 8/27/2021, 5:52:12 PM  synced recovery
+INFO 8/27/2021, 5:52:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...of all multi-ve" (884)
+INFO 8/27/2021, 5:52:15 PM  synced recovery
+INFO 8/27/2021, 5:52:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... of all multi-v" (883)
+INFO 8/27/2021, 5:52:16 PM  synced recovery
+INFO 8/27/2021, 5:52:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... of all multi-a" (883)
+INFO 8/27/2021, 5:52:16 PM  synced recovery
+INFO 8/27/2021, 5:52:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... of all multi-a" (883)
+INFO 8/27/2021, 5:52:16 PM  synced recovery
+INFO 8/27/2021, 5:52:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... of all multi-v" (883)
+INFO 8/27/2021, 5:52:16 PM  synced recovery
+INFO 8/27/2021, 5:52:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ll multi-variat" (888)
+INFO 8/27/2021, 5:52:17 PM  synced recovery
+INFO 8/27/2021, 5:52:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...l multi-variate" (889)
+INFO 8/27/2021, 5:52:17 PM  synced recovery
+INFO 8/27/2021, 5:52:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...riate distribut" (899)
+INFO 8/27/2021, 5:52:19 PM  synced recovery
+INFO 8/27/2021, 5:52:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...multi-variate n" (891)
+INFO 8/27/2021, 5:52:20 PM  synced recovery
+INFO 8/27/2021, 5:52:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... multi-variate " (890)
+INFO 8/27/2021, 5:52:22 PM  synced recovery
+INFO 8/27/2021, 5:52:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...multi-variate n" (891)
+INFO 8/27/2021, 5:52:22 PM  synced recovery
+INFO 8/27/2021, 5:52:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...riate normal di" (899)
+INFO 8/27/2021, 5:52:24 PM  synced recovery
+INFO 8/27/2021, 5:52:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...iate normal dis" (900)
+INFO 8/27/2021, 5:52:24 PM  synced recovery
+INFO 8/27/2021, 5:52:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:52:27 PM  synced recovery
+INFO 8/27/2021, 5:52:30 PM  [blur] 3
+INFO 8/27/2021, 5:52:30 PM  [win] blur
+INFO 8/27/2021, 5:52:34 PM  [focus] 3
+INFO 8/27/2021, 5:52:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... distributions." (910)
+INFO 8/27/2021, 5:52:41 PM  synced recovery
+INFO 8/27/2021, 5:52:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:52:42 PM  synced recovery
+INFO 8/27/2021, 5:52:43 PM  [blur] 3
+INFO 8/27/2021, 5:52:43 PM  [win] blur
+INFO 8/27/2021, 5:52:49 PM  [focus] 3
+INFO 8/27/2021, 5:52:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...istributions.
+
+" (912)
+INFO 8/27/2021, 5:52:53 PM  synced recovery
+INFO 8/27/2021, 5:52:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... distributions." (910)
+INFO 8/27/2021, 5:52:53 PM  synced recovery
+INFO 8/27/2021, 5:52:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... distributions." (909)
+INFO 8/27/2021, 5:52:58 PM  synced recovery
+INFO 8/27/2021, 5:53:01 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...istributions.
+
+" (911)
+INFO 8/27/2021, 5:53:01 PM  synced recovery
+INFO 8/27/2021, 5:53:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...stributions.
+
+T" (912)
+INFO 8/27/2021, 5:53:02 PM  synced recovery
+INFO 8/27/2021, 5:53:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V....
+
+Typically $K" (923)
+INFO 8/27/2021, 5:53:05 PM  synced recovery
+INFO 8/27/2021, 5:53:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s.
+
+Typically $" (922)
+INFO 8/27/2021, 5:53:05 PM  synced recovery
+INFO 8/27/2021, 5:53:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V....
+
+Typically $\" (923)
+INFO 8/27/2021, 5:53:06 PM  synced recovery
+INFO 8/27/2021, 5:53:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ically $\text{}" (929)
+INFO 8/27/2021, 5:53:06 PM  synced recovery
+INFO 8/27/2021, 5:53:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...cally $\text{K}" (930)
+INFO 8/27/2021, 5:53:06 PM  synced recovery
+INFO 8/27/2021, 5:53:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...lly $\text{KL})" (932)
+INFO 8/27/2021, 5:53:07 PM  synced recovery
+INFO 8/27/2021, 5:53:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ally $\text{KL}" (931)
+INFO 8/27/2021, 5:53:08 PM  synced recovery
+INFO 8/27/2021, 5:53:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ly $\text{KL}()" (933)
+INFO 8/27/2021, 5:53:08 PM  synced recovery
+INFO 8/27/2021, 5:53:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...y $\text{KL}(Q)" (934)
+INFO 8/27/2021, 5:53:08 PM  synced recovery
+INFO 8/27/2021, 5:53:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+ $\text{KL}(Q)" (925)
+INFO 8/27/2021, 5:53:09 PM  synced recovery
+INFO 8/27/2021, 5:53:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...I $\text{KL}(Q)" (926)
+INFO 8/27/2021, 5:53:10 PM  synced recovery
+INFO 8/27/2021, 5:53:14 PM  [blur] 3
+INFO 8/27/2021, 5:53:14 PM  [win] blur
+INFO 8/27/2021, 5:53:17 PM  [focus] 3
+INFO 8/27/2021, 5:53:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...  $\text{KL}(Q)" (934)
+INFO 8/27/2021, 5:53:19 PM  synced recovery
+INFO 8/27/2021, 5:53:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...  $\text{KL}(Q)" (947)
+INFO 8/27/2021, 5:53:22 PM  synced recovery
+INFO 8/27/2021, 5:53:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...  $\text{KL}(Q)" (948)
+INFO 8/27/2021, 5:53:22 PM  synced recovery
+INFO 8/27/2021, 5:53:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...  $\text{KL}(Q)" (948)
+INFO 8/27/2021, 5:53:29 PM  synced recovery
+INFO 8/27/2021, 5:53:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...  $\text{KL}(Q)" (933)
+INFO 8/27/2021, 5:53:32 PM  synced recovery
+INFO 8/27/2021, 5:53:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...n $\text{KL}(Q)" (934)
+INFO 8/27/2021, 5:53:36 PM  synced recovery
+INFO 8/27/2021, 5:53:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...m $\text{KL}(Q)" (952)
+INFO 8/27/2021, 5:53:39 PM  synced recovery
+INFO 8/27/2021, 5:53:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s, $\text{KL}(Q" (953)
+INFO 8/27/2021, 5:53:41 PM  synced recovery
+INFO 8/27/2021, 5:53:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s, $\text{KL}()" (953)
+INFO 8/27/2021, 5:53:42 PM  synced recovery
+INFO 8/27/2021, 5:53:43 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V..., $\text{KL}(q)" (954)
+INFO 8/27/2021, 5:53:43 PM  synced recovery
+INFO 8/27/2021, 5:53:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V..., $\text{KL}(q)" (954)
+INFO 8/27/2021, 5:53:44 PM  synced recovery
+INFO 8/27/2021, 5:53:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... $\text{KL}(q|)" (955)
+INFO 8/27/2021, 5:53:44 PM  synced recovery
+INFO 8/27/2021, 5:53:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\text{KL}(q|}p)" (957)
+INFO 8/27/2021, 5:53:46 PM  synced recovery
+INFO 8/27/2021, 5:53:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\text{KL}(q|p)" (956)
+INFO 8/27/2021, 5:53:47 PM  synced recovery
+INFO 8/27/2021, 5:53:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\text{KL}(q|}p)" (957)
+INFO 8/27/2021, 5:53:47 PM  synced recovery
+INFO 8/27/2021, 5:53:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$\text{KL}(q|p)" (956)
+INFO 8/27/2021, 5:53:48 PM  synced recovery
+INFO 8/27/2021, 5:53:48 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\text{KL}(q||p)" (957)
+INFO 8/27/2021, 5:53:48 PM  synced recovery
+INFO 8/27/2021, 5:53:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{KL}(q||p)$ is " (961)
+INFO 8/27/2021, 5:53:55 PM  synced recovery
+INFO 8/27/2021, 5:53:56 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{KL}(q||p)$ is " (961)
+INFO 8/27/2021, 5:53:56 PM  synced recovery
+INFO 8/27/2021, 5:53:57 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{KL}(q||p)$ is " (962)
+INFO 8/27/2021, 5:53:57 PM  synced recovery
+INFO 8/27/2021, 5:53:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...KL}(q||p)$ is u" (963)
+INFO 8/27/2021, 5:53:59 PM  synced recovery
+INFO 8/27/2021, 5:54:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...s untractable. " (975)
+INFO 8/27/2021, 5:54:02 PM  synced recovery
+INFO 8/27/2021, 5:54:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ctable. Instead" (982)
+INFO 8/27/2021, 5:54:04 PM  synced recovery
+INFO 8/27/2021, 5:54:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...table. Instead " (983)
+INFO 8/27/2021, 5:54:05 PM  synced recovery
+INFO 8/27/2021, 5:54:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... Instead a lowe" (989)
+INFO 8/27/2021, 5:54:07 PM  synced recovery
+INFO 8/27/2021, 5:54:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...able. Instead a" (984)
+INFO 8/27/2021, 5:54:08 PM  synced recovery
+INFO 8/27/2021, 5:54:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e. Instead a lo" (987)
+INFO 8/27/2021, 5:54:10 PM  synced recovery
+INFO 8/27/2021, 5:54:11 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ble. Instead an" (985)
+INFO 8/27/2021, 5:54:11 PM  synced recovery
+INFO 8/27/2021, 5:54:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...upper bound is " (1001)
+INFO 8/27/2021, 5:54:14 PM  synced recovery
+INFO 8/27/2021, 5:54:25 PM  [blur] 3
+INFO 8/27/2021, 5:54:25 PM  [win] blur
+INFO 8/27/2021, 5:54:27 PM  [focus] 3
+INFO 8/27/2021, 5:54:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1006)
+INFO 8/27/2021, 5:54:29 PM  synced recovery
+INFO 8/27/2021, 5:54:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1010)
+INFO 8/27/2021, 5:54:30 PM  synced recovery
+INFO 8/27/2021, 5:54:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1009)
+INFO 8/27/2021, 5:54:30 PM  synced recovery
+INFO 8/27/2021, 5:54:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:54:33 PM  synced recovery
+INFO 8/27/2021, 5:54:41 PM  [blur] 3
+INFO 8/27/2021, 5:54:41 PM  [win] blur
+INFO 8/27/2021, 5:54:44 PM  [focus] 3
+INFO 8/27/2021, 5:54:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1022)
+INFO 8/27/2021, 5:54:46 PM  synced recovery
+INFO 8/27/2021, 5:54:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1023)
+INFO 8/27/2021, 5:54:46 PM  synced recovery
+INFO 8/27/2021, 5:54:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1027)
+INFO 8/27/2021, 5:54:47 PM  synced recovery
+INFO 8/27/2021, 5:54:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1028)
+INFO 8/27/2021, 5:54:50 PM  synced recovery
+INFO 8/27/2021, 5:54:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1027)
+INFO 8/27/2021, 5:54:52 PM  synced recovery
+INFO 8/27/2021, 5:54:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1028)
+INFO 8/27/2021, 5:54:52 PM  synced recovery
+INFO 8/27/2021, 5:54:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1029)
+INFO 8/27/2021, 5:54:54 PM  synced recovery
+INFO 8/27/2021, 5:55:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1025)
+INFO 8/27/2021, 5:55:06 PM  synced recovery
+INFO 8/27/2021, 5:55:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1015)
+INFO 8/27/2021, 5:55:16 PM  synced recovery
+INFO 8/27/2021, 5:55:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 5:55:17 PM  synced recovery
+INFO 8/27/2021, 5:55:19 PM  [blur] 3
+INFO 8/27/2021, 5:55:19 PM  [win] blur
+INFO 8/27/2021, 5:55:39 PM  [focus] 3
+INFO 8/27/2021, 5:55:42 PM  [blur] 3
+INFO 8/27/2021, 5:55:42 PM  [win] blur
+INFO 8/27/2021, 6:04:18 PM  got argv [typora /home/theo/Writing/bayesiantribulations/publications.md] from secondary instance
+INFO 8/27/2021, 6:04:18 PM  addRecentDocument
+INFO 8/27/2021, 6:04:18 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md undefined (0)
+INFO 8/27/2021, 6:04:18 PM  [focus] 4
+INFO 8/27/2021, 6:04:18 PM  synced recovery
+INFO 8/27/2021, 6:04:18 PM  handle document.loadInitData
+INFO 8/27/2021, 6:04:18 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md undefined (0)
+INFO 8/27/2021, 6:04:18 PM  synced recovery
+INFO 8/27/2021, 6:04:20 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3257)
+INFO 8/27/2021, 6:04:20 PM  synced recovery
+INFO 8/27/2021, 6:04:20 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3258)
+INFO 8/27/2021, 6:04:20 PM  synced recovery
+INFO 8/27/2021, 6:04:22 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3263)
+INFO 8/27/2021, 6:04:22 PM  synced recovery
+INFO 8/27/2021, 6:04:22 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3263)
+INFO 8/27/2021, 6:04:22 PM  synced recovery
+INFO 8/27/2021, 6:04:23 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3270)
+INFO 8/27/2021, 6:04:23 PM  synced recovery
+INFO 8/27/2021, 6:04:23 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3269)
+INFO 8/27/2021, 6:04:23 PM  synced recovery
+INFO 8/27/2021, 6:04:24 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3276)
+INFO 8/27/2021, 6:04:24 PM  synced recovery
+INFO 8/27/2021, 6:04:25 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3277)
+INFO 8/27/2021, 6:04:25 PM  synced recovery
+INFO 8/27/2021, 6:04:26 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3278)
+INFO 8/27/2021, 6:04:26 PM  synced recovery
+INFO 8/27/2021, 6:04:30 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3279)
+INFO 8/27/2021, 6:04:30 PM  synced recovery
+INFO 8/27/2021, 6:04:34 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3286)
+INFO 8/27/2021, 6:04:34 PM  synced recovery
+INFO 8/27/2021, 6:04:36 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3288)
+INFO 8/27/2021, 6:04:36 PM  synced recovery
+INFO 8/27/2021, 6:04:37 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3289)
+INFO 8/27/2021, 6:04:37 PM  synced recovery
+INFO 8/27/2021, 6:04:38 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3290)
+INFO 8/27/2021, 6:04:38 PM  synced recovery
+INFO 8/27/2021, 6:04:39 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3291)
+INFO 8/27/2021, 6:04:39 PM  synced recovery
+INFO 8/27/2021, 6:04:39 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3293)
+INFO 8/27/2021, 6:04:39 PM  synced recovery
+INFO 8/27/2021, 6:04:41 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3294)
+INFO 8/27/2021, 6:04:41 PM  synced recovery
+INFO 8/27/2021, 6:04:47 PM  [blur] 4
+INFO 8/27/2021, 6:04:47 PM  [win] blur
+INFO 8/27/2021, 6:04:52 PM  got argv [typora /home/theo/Writing/theogf.github.io/README.md] from secondary instance
+INFO 8/27/2021, 6:04:52 PM  addRecentDocument
+INFO 8/27/2021, 6:04:52 PM  added recovery 5 /home/theo/Writing/theogf.github.io/README.md undefined (0)
+INFO 8/27/2021, 6:04:52 PM  synced recovery
+INFO 8/27/2021, 6:04:52 PM  [focus] 5
+INFO 8/27/2021, 6:04:53 PM  handle document.loadInitData
+INFO 8/27/2021, 6:04:53 PM  added recovery 5 /home/theo/Writing/theogf.github.io/README.md undefined (0)
+INFO 8/27/2021, 6:04:53 PM  synced recovery
+INFO 8/27/2021, 6:04:56 PM  got argv [typora /home/theo/Writing/theogf.github.io/index.md] from secondary instance
+INFO 8/27/2021, 6:04:56 PM  addRecentDocument
+INFO 8/27/2021, 6:04:56 PM  added recovery 6 /home/theo/Writing/theogf.github.io/index.md undefined (0)
+INFO 8/27/2021, 6:04:56 PM  [focus] 6
+INFO 8/27/2021, 6:04:56 PM  synced recovery
+INFO 8/27/2021, 6:04:57 PM  handle document.loadInitData
+INFO 8/27/2021, 6:04:57 PM  added recovery 6 /home/theo/Writing/theogf.github.io/index.md undefined (0)
+INFO 8/27/2021, 6:04:57 PM  synced recovery
+INFO 8/27/2021, 6:05:02 PM  [blur] 6
+INFO 8/27/2021, 6:05:02 PM  [win] blur
+INFO 8/27/2021, 6:05:04 PM  [focus] 6
+INFO 8/27/2021, 6:05:06 PM  [blur] 6
+INFO 8/27/2021, 6:05:06 PM  [win] blur
+INFO 8/27/2021, 6:05:06 PM  [focus] 4
+INFO 8/27/2021, 6:05:09 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3490)
+INFO 8/27/2021, 6:05:09 PM  synced recovery
+INFO 8/27/2021, 6:05:14 PM  [blur] 4
+INFO 8/27/2021, 6:05:14 PM  [win] blur
+INFO 8/27/2021, 6:05:14 PM  [focus] 6
+INFO 8/27/2021, 6:05:15 PM  added recovery 6 /home/theo/Writing/theogf.github.io/index.md "---
+layout: def...yFajou.pdf)***
+" (6397)
+INFO 8/27/2021, 6:05:15 PM  synced recovery
+INFO 8/27/2021, 6:05:18 PM  [blur] 6
+INFO 8/27/2021, 6:05:18 PM  [win] blur
+INFO 8/27/2021, 6:05:18 PM  [focus] 4
+INFO 8/27/2021, 6:05:20 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3499)
+INFO 8/27/2021, 6:05:20 PM  synced recovery
+INFO 8/27/2021, 6:05:24 PM  [blur] 4
+INFO 8/27/2021, 6:05:24 PM  [win] blur
+INFO 8/27/2021, 6:05:24 PM  [focus] 6
+INFO 8/27/2021, 6:05:27 PM  [blur] 6
+INFO 8/27/2021, 6:05:27 PM  [win] blur
+INFO 8/27/2021, 6:05:27 PM  [focus] 4
+INFO 8/27/2021, 6:05:28 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3497)
+INFO 8/27/2021, 6:05:28 PM  synced recovery
+INFO 8/27/2021, 6:05:29 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3526)
+INFO 8/27/2021, 6:05:29 PM  synced recovery
+INFO 8/27/2021, 6:05:30 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3518)
+INFO 8/27/2021, 6:05:30 PM  synced recovery
+INFO 8/27/2021, 6:05:32 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3506)
+INFO 8/27/2021, 6:05:32 PM  synced recovery
+INFO 8/27/2021, 6:05:39 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3507)
+INFO 8/27/2021, 6:05:39 PM  synced recovery
+INFO 8/27/2021, 6:05:40 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3509)
+INFO 8/27/2021, 6:05:40 PM  synced recovery
+INFO 8/27/2021, 6:05:40 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3510)
+INFO 8/27/2021, 6:05:40 PM  synced recovery
+INFO 8/27/2021, 6:05:40 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3512)
+INFO 8/27/2021, 6:05:40 PM  synced recovery
+INFO 8/27/2021, 6:05:41 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3513)
+INFO 8/27/2021, 6:05:41 PM  synced recovery
+INFO 8/27/2021, 6:05:41 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3515)
+INFO 8/27/2021, 6:05:41 PM  synced recovery
+INFO 8/27/2021, 6:05:43 PM  [blur] 4
+INFO 8/27/2021, 6:05:43 PM  [win] blur
+INFO 8/27/2021, 6:05:56 PM  [focus] 4
+INFO 8/27/2021, 6:05:57 PM  [blur] 4
+INFO 8/27/2021, 6:05:57 PM  [win] blur
+INFO 8/27/2021, 6:05:59 PM  [focus] 4
+INFO 8/27/2021, 6:06:00 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ntProcesses.jl)" (3557)
+INFO 8/27/2021, 6:06:00 PM  synced recovery
+INFO 8/27/2021, 6:06:01 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md null (0)
+INFO 8/27/2021, 6:06:01 PM  synced recovery
+INFO 8/27/2021, 6:06:04 PM  [blur] 4
+INFO 8/27/2021, 6:06:04 PM  [win] blur
+INFO 8/27/2021, 6:06:18 PM  [focus] 4
+INFO 8/27/2021, 6:06:25 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...cesses.jl)
+  - " (3562)
+INFO 8/27/2021, 6:06:25 PM  synced recovery
+INFO 8/27/2021, 6:06:26 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...sses.jl)
+  - []" (3564)
+INFO 8/27/2021, 6:06:26 PM  synced recovery
+INFO 8/27/2021, 6:06:26 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ses.jl)
+  - [T]" (3565)
+INFO 8/27/2021, 6:06:26 PM  synced recovery
+INFO 8/27/2021, 6:06:28 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...  - [Turkie.jl]" (3573)
+INFO 8/27/2021, 6:06:28 PM  synced recovery
+INFO 8/27/2021, 6:06:29 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...- [Turkie.jl]()" (3575)
+INFO 8/27/2021, 6:06:29 PM  synced recovery
+INFO 8/27/2021, 6:06:30 PM  [blur] 4
+INFO 8/27/2021, 6:06:30 PM  [win] blur
+INFO 8/27/2021, 6:06:33 PM  [focus] 4
+INFO 8/27/2021, 6:06:34 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...ogf/Turkie.jl))" (3616)
+INFO 8/27/2021, 6:06:34 PM  synced recovery
+INFO 8/27/2021, 6:06:36 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3615)
+INFO 8/27/2021, 6:06:36 PM  synced recovery
+INFO 8/27/2021, 6:06:39 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3614)
+INFO 8/27/2021, 6:06:39 PM  synced recovery
+INFO 8/27/2021, 6:06:41 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3616)
+INFO 8/27/2021, 6:06:41 PM  synced recovery
+INFO 8/27/2021, 6:06:41 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3615)
+INFO 8/27/2021, 6:06:41 PM  synced recovery
+INFO 8/27/2021, 6:06:42 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3633)
+INFO 8/27/2021, 6:06:42 PM  synced recovery
+INFO 8/27/2021, 6:06:42 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3610)
+INFO 8/27/2021, 6:06:42 PM  synced recovery
+INFO 8/27/2021, 6:06:46 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3610)
+INFO 8/27/2021, 6:06:46 PM  synced recovery
+INFO 8/27/2021, 6:06:47 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3610)
+INFO 8/27/2021, 6:06:47 PM  synced recovery
+INFO 8/27/2021, 6:06:48 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3610)
+INFO 8/27/2021, 6:06:48 PM  synced recovery
+INFO 8/27/2021, 6:06:50 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md "@def title = "P...eogf/Turkie.jl)" (3610)
+INFO 8/27/2021, 6:06:50 PM  synced recovery
+INFO 8/27/2021, 6:07:05 PM  added recovery 4 /home/theo/Writing/bayesiantribulations/publications.md null (0)
+INFO 8/27/2021, 6:07:05 PM  synced recovery
+INFO 8/27/2021, 6:07:07 PM  [blur] 4
+INFO 8/27/2021, 6:07:07 PM  [win] blur
+INFO 8/27/2021, 6:07:12 PM  [focus] 4
+INFO 8/27/2021, 6:07:15 PM  [focus] 6
+INFO 8/27/2021, 6:07:18 PM  added recovery 6 /home/theo/Writing/theogf.github.io/index.md null (0)
+INFO 8/27/2021, 6:07:18 PM  synced recovery
+INFO 8/27/2021, 6:07:22 PM  [focus] 3
+INFO 8/27/2021, 6:07:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1015)
+INFO 8/27/2021, 6:07:24 PM  synced recovery
+INFO 8/27/2021, 6:07:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1015)
+INFO 8/27/2021, 6:07:25 PM  synced recovery
+INFO 8/27/2021, 6:07:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... bound is used:" (1016)
+INFO 8/27/2021, 6:07:26 PM  synced recovery
+INFO 8/27/2021, 6:07:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ound is used:
+
+" (1018)
+INFO 8/27/2021, 6:07:26 PM  synced recovery
+INFO 8/27/2021, 6:07:27 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... bound is used:" (1016)
+INFO 8/27/2021, 6:07:27 PM  synced recovery
+INFO 8/27/2021, 6:07:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ound is used:
+
+" (1018)
+INFO 8/27/2021, 6:07:29 PM  synced recovery
+INFO 8/27/2021, 6:07:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... bound is used:" (1016)
+INFO 8/27/2021, 6:07:30 PM  synced recovery
+INFO 8/27/2021, 6:07:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r bound is used" (1015)
+INFO 8/27/2021, 6:07:31 PM  synced recovery
+INFO 8/27/2021, 6:07:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... bound is used:" (1016)
+INFO 8/27/2021, 6:07:32 PM  synced recovery
+INFO 8/27/2021, 6:07:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ound is used:
+
+" (1018)
+INFO 8/27/2021, 6:07:32 PM  synced recovery
+INFO 8/27/2021, 6:07:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...und is used:
+
+`" (1019)
+INFO 8/27/2021, 6:07:33 PM  synced recovery
+INFO 8/27/2021, 6:07:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ound is used:
+
+" (1018)
+INFO 8/27/2021, 6:07:33 PM  synced recovery
+INFO 8/27/2021, 6:07:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...und is used:
+
+$" (1019)
+INFO 8/27/2021, 6:07:35 PM  synced recovery
+INFO 8/27/2021, 6:07:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nd is used:
+
+$$" (1020)
+INFO 8/27/2021, 6:07:36 PM  synced recovery
+INFO 8/27/2021, 6:07:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...d is used:
+
+$$\" (1021)
+INFO 8/27/2021, 6:07:36 PM  synced recovery
+INFO 8/27/2021, 6:07:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...sed:
+
+$$\text{}" (1027)
+INFO 8/27/2021, 6:07:37 PM  synced recovery
+INFO 8/27/2021, 6:07:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ed:
+
+$$\text{K}" (1028)
+INFO 8/27/2021, 6:07:37 PM  synced recovery
+INFO 8/27/2021, 6:07:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+
+$$\text{KL}()" (1031)
+INFO 8/27/2021, 6:07:38 PM  synced recovery
+INFO 8/27/2021, 6:07:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+$$\text{KL}(q)" (1032)
+INFO 8/27/2021, 6:07:39 PM  synced recovery
+INFO 8/27/2021, 6:07:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t{KL}(q||p) \le" (1039)
+INFO 8/27/2021, 6:07:41 PM  synced recovery
+INFO 8/27/2021, 6:07:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{KL}(q||p) \leq" (1040)
+INFO 8/27/2021, 6:07:41 PM  synced recovery
+INFO 8/27/2021, 6:07:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\leq \mathcal{}" (1051)
+INFO 8/27/2021, 6:07:44 PM  synced recovery
+INFO 8/27/2021, 6:07:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...leq \mathcal{L}" (1052)
+INFO 8/27/2021, 6:07:44 PM  synced recovery
+INFO 8/27/2021, 6:07:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...mathcal{L} \leq" (1057)
+INFO 8/27/2021, 6:07:47 PM  synced recovery
+INFO 8/27/2021, 6:07:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q \mathcal{L} =" (1054)
+INFO 8/27/2021, 6:07:47 PM  synced recovery
+INFO 8/27/2021, 6:07:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...l{L} = \expec[]" (1063)
+INFO 8/27/2021, 6:07:49 PM  synced recovery
+INFO 8/27/2021, 6:07:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...cal{L} = \expec" (1061)
+INFO 8/27/2021, 6:07:49 PM  synced recovery
+INFO 8/27/2021, 6:07:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...l{L} = \expec{}" (1063)
+INFO 8/27/2021, 6:07:49 PM  synced recovery
+INFO 8/27/2021, 6:07:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{L} = \expec{q}" (1064)
+INFO 8/27/2021, 6:07:51 PM  synced recovery
+INFO 8/27/2021, 6:07:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...l{L} = \expec{}" (1063)
+INFO 8/27/2021, 6:07:52 PM  synced recovery
+INFO 8/27/2021, 6:07:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{L} = \expec{q}" (1064)
+INFO 8/27/2021, 6:07:53 PM  synced recovery
+INFO 8/27/2021, 6:07:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} = \expec{q}{}" (1066)
+INFO 8/27/2021, 6:07:58 PM  synced recovery
+INFO 8/27/2021, 6:07:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... = \expec{q}{\}" (1067)
+INFO 8/27/2021, 6:07:59 PM  synced recovery
+INFO 8/27/2021, 6:08:00 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ec{q}{\log p()}" (1074)
+INFO 8/27/2021, 6:08:00 PM  synced recovery
+INFO 8/27/2021, 6:08:00 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...c{q}{\log p(x)}" (1075)
+INFO 8/27/2021, 6:08:00 PM  synced recovery
+INFO 8/27/2021, 6:08:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\log p(x)} - \m" (1080)
+INFO 8/27/2021, 6:08:04 PM  synced recovery
+INFO 8/27/2021, 6:08:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...)} - \mathcal{}" (1088)
+INFO 8/27/2021, 6:08:04 PM  synced recovery
+INFO 8/27/2021, 6:08:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \mathcal{H}" (1089)
+INFO 8/27/2021, 6:08:05 PM  synced recovery
+INFO 8/27/2021, 6:08:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - \mathcal{H})" (1090)
+INFO 8/27/2021, 6:08:09 PM  synced recovery
+INFO 8/27/2021, 6:08:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \mathcal{H}" (1089)
+INFO 8/27/2021, 6:08:10 PM  synced recovery
+INFO 8/27/2021, 6:08:13 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\log p(x)} - \e" (1080)
+INFO 8/27/2021, 6:08:13 PM  synced recovery
+INFO 8/27/2021, 6:08:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x)} - \entrop{}" (1087)
+INFO 8/27/2021, 6:08:15 PM  synced recovery
+INFO 8/27/2021, 6:08:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...)} - \entrop{q}" (1088)
+INFO 8/27/2021, 6:08:16 PM  synced recovery
+INFO 8/27/2021, 6:08:21 PM  [blur] 3
+INFO 8/27/2021, 6:08:21 PM  [win] blur
+INFO 8/27/2021, 6:09:01 PM  got argv [typora /home/theo/Writing/bayesiantribulations/config.md] from secondary instance
+INFO 8/27/2021, 6:09:01 PM  addRecentDocument
+INFO 8/27/2021, 6:09:01 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md undefined (0)
+INFO 8/27/2021, 6:09:01 PM  [focus] 7
+INFO 8/27/2021, 6:09:01 PM  synced recovery
+INFO 8/27/2021, 6:09:01 PM  handle document.loadInitData
+INFO 8/27/2021, 6:09:01 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md undefined (0)
+INFO 8/27/2021, 6:09:01 PM  synced recovery
+INFO 8/27/2021, 6:09:06 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:06 PM  synced recovery
+INFO 8/27/2021, 6:09:07 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:07 PM  synced recovery
+INFO 8/27/2021, 6:09:07 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:07 PM  synced recovery
+INFO 8/27/2021, 6:09:08 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1290)
+INFO 8/27/2021, 6:09:08 PM  synced recovery
+INFO 8/27/2021, 6:09:08 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:08 PM  synced recovery
+INFO 8/27/2021, 6:09:10 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:10 PM  synced recovery
+INFO 8/27/2021, 6:09:10 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:10 PM  synced recovery
+INFO 8/27/2021, 6:09:10 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:10 PM  synced recovery
+INFO 8/27/2021, 6:09:11 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1290)
+INFO 8/27/2021, 6:09:11 PM  synced recovery
+INFO 8/27/2021, 6:09:12 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:12 PM  synced recovery
+INFO 8/27/2021, 6:09:13 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:13 PM  synced recovery
+INFO 8/27/2021, 6:09:15 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:15 PM  synced recovery
+INFO 8/27/2021, 6:09:16 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1294)
+INFO 8/27/2021, 6:09:16 PM  synced recovery
+INFO 8/27/2021, 6:09:18 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:18 PM  synced recovery
+INFO 8/27/2021, 6:09:18 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:18 PM  synced recovery
+INFO 8/27/2021, 6:09:18 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:18 PM  synced recovery
+INFO 8/27/2021, 6:09:20 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:20 PM  synced recovery
+INFO 8/27/2021, 6:09:20 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:20 PM  synced recovery
+INFO 8/27/2021, 6:09:23 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:23 PM  synced recovery
+INFO 8/27/2021, 6:09:23 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:23 PM  synced recovery
+INFO 8/27/2021, 6:09:23 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:23 PM  synced recovery
+INFO 8/27/2021, 6:09:24 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:24 PM  synced recovery
+INFO 8/27/2021, 6:09:24 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:24 PM  synced recovery
+INFO 8/27/2021, 6:09:26 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1290)
+INFO 8/27/2021, 6:09:26 PM  synced recovery
+INFO 8/27/2021, 6:09:27 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1291)
+INFO 8/27/2021, 6:09:27 PM  synced recovery
+INFO 8/27/2021, 6:09:28 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1292)
+INFO 8/27/2021, 6:09:28 PM  synced recovery
+INFO 8/27/2021, 6:09:29 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1293)
+INFO 8/27/2021, 6:09:29 PM  synced recovery
+INFO 8/27/2021, 6:09:30 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1297)
+INFO 8/27/2021, 6:09:30 PM  synced recovery
+INFO 8/27/2021, 6:09:43 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1298)
+INFO 8/27/2021, 6:09:43 PM  synced recovery
+INFO 8/27/2021, 6:09:43 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1299)
+INFO 8/27/2021, 6:09:43 PM  synced recovery
+INFO 8/27/2021, 6:09:43 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1300)
+INFO 8/27/2021, 6:09:43 PM  synced recovery
+INFO 8/27/2021, 6:09:43 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1301)
+INFO 8/27/2021, 6:09:43 PM  synced recovery
+INFO 8/27/2021, 6:09:44 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1302)
+INFO 8/27/2021, 6:09:44 PM  synced recovery
+INFO 8/27/2021, 6:09:44 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1303)
+INFO 8/27/2021, 6:09:44 PM  synced recovery
+INFO 8/27/2021, 6:09:44 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1304)
+INFO 8/27/2021, 6:09:44 PM  synced recovery
+INFO 8/27/2021, 6:09:46 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1303)
+INFO 8/27/2021, 6:09:46 PM  synced recovery
+INFO 8/27/2021, 6:09:47 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1305)
+INFO 8/27/2021, 6:09:47 PM  synced recovery
+INFO 8/27/2021, 6:09:48 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1306)
+INFO 8/27/2021, 6:09:48 PM  synced recovery
+INFO 8/27/2021, 6:09:48 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1307)
+INFO 8/27/2021, 6:09:48 PM  synced recovery
+INFO 8/27/2021, 6:09:48 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1308)
+INFO 8/27/2021, 6:09:48 PM  synced recovery
+INFO 8/27/2021, 6:09:49 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1310)
+INFO 8/27/2021, 6:09:49 PM  synced recovery
+INFO 8/27/2021, 6:09:49 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1311)
+INFO 8/27/2021, 6:09:49 PM  synced recovery
+INFO 8/27/2021, 6:09:49 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1312)
+INFO 8/27/2021, 6:09:49 PM  synced recovery
+INFO 8/27/2021, 6:09:49 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1313)
+INFO 8/27/2021, 6:09:49 PM  synced recovery
+INFO 8/27/2021, 6:09:51 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1315)
+INFO 8/27/2021, 6:09:51 PM  synced recovery
+INFO 8/27/2021, 6:09:51 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1316)
+INFO 8/27/2021, 6:09:51 PM  synced recovery
+INFO 8/27/2021, 6:09:52 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1318)
+INFO 8/27/2021, 6:09:52 PM  synced recovery
+INFO 8/27/2021, 6:09:52 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1319)
+INFO 8/27/2021, 6:09:52 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1320)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1321)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1322)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1323)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1324)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1325)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:53 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1326)
+INFO 8/27/2021, 6:09:53 PM  synced recovery
+INFO 8/27/2021, 6:09:54 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1328)
+INFO 8/27/2021, 6:09:54 PM  synced recovery
+INFO 8/27/2021, 6:09:54 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1329)
+INFO 8/27/2021, 6:09:54 PM  synced recovery
+INFO 8/27/2021, 6:09:56 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1330)
+INFO 8/27/2021, 6:09:56 PM  synced recovery
+INFO 8/27/2021, 6:09:56 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1331)
+INFO 8/27/2021, 6:09:56 PM  synced recovery
+INFO 8/27/2021, 6:09:56 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1332)
+INFO 8/27/2021, 6:09:56 PM  synced recovery
+INFO 8/27/2021, 6:09:56 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1333)
+INFO 8/27/2021, 6:09:56 PM  synced recovery
+INFO 8/27/2021, 6:09:56 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1334)
+INFO 8/27/2021, 6:09:56 PM  synced recovery
+INFO 8/27/2021, 6:09:57 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1336)
+INFO 8/27/2021, 6:09:57 PM  synced recovery
+INFO 8/27/2021, 6:09:58 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1337)
+INFO 8/27/2021, 6:09:58 PM  synced recovery
+INFO 8/27/2021, 6:09:58 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1338)
+INFO 8/27/2021, 6:09:58 PM  synced recovery
+INFO 8/27/2021, 6:09:59 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1339)
+INFO 8/27/2021, 6:09:59 PM  synced recovery
+INFO 8/27/2021, 6:09:59 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1340)
+INFO 8/27/2021, 6:09:59 PM  synced recovery
+INFO 8/27/2021, 6:10:00 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1341)
+INFO 8/27/2021, 6:10:00 PM  synced recovery
+INFO 8/27/2021, 6:10:00 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1342)
+INFO 8/27/2021, 6:10:00 PM  synced recovery
+INFO 8/27/2021, 6:10:00 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1343)
+INFO 8/27/2021, 6:10:00 PM  synced recovery
+INFO 8/27/2021, 6:10:00 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md "<!--
+Add here g...}{\text{diag}}
+" (1344)
+INFO 8/27/2021, 6:10:00 PM  synced recovery
+INFO 8/27/2021, 6:10:02 PM  added recovery 7 /home/theo/Writing/bayesiantribulations/config.md null (0)
+INFO 8/27/2021, 6:10:02 PM  synced recovery
+INFO 8/27/2021, 6:10:07 PM  [focus] 3
+INFO 8/27/2021, 6:10:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:10:08 PM  synced recovery
+INFO 8/27/2021, 6:10:10 PM  [blur] 3
+INFO 8/27/2021, 6:10:10 PM  [win] blur
+INFO 8/27/2021, 6:10:23 PM  [focus] 3
+INFO 8/27/2021, 6:10:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \entrop{q}#" (1089)
+INFO 8/27/2021, 6:10:24 PM  synced recovery
+INFO 8/27/2021, 6:10:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \entrop{q}#" (1089)
+INFO 8/27/2021, 6:10:25 PM  synced recovery
+INFO 8/27/2021, 6:10:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \entrop{q}$" (1089)
+INFO 8/27/2021, 6:10:25 PM  synced recovery
+INFO 8/27/2021, 6:10:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:10:25 PM  synced recovery
+INFO 8/27/2021, 6:10:29 PM  [blur] 3
+INFO 8/27/2021, 6:10:29 PM  [win] blur
+INFO 8/27/2021, 6:10:35 PM  [focus] 3
+INFO 8/27/2021, 6:10:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:10:37 PM  synced recovery
+INFO 8/27/2021, 6:10:55 PM  [blur] 3
+INFO 8/27/2021, 6:10:55 PM  [win] blur
+INFO 8/27/2021, 6:10:57 PM  [focus] 3
+INFO 8/27/2021, 6:10:58 PM  [blur] 3
+INFO 8/27/2021, 6:10:58 PM  [win] blur
+INFO 8/27/2021, 6:11:01 PM  got argv [typora /home/theo/Writing/bayesiantribulations/config.md] from secondary instance
+INFO 8/27/2021, 6:11:01 PM  addRecentDocument
+INFO 8/27/2021, 6:11:01 PM  added recovery 8 /home/theo/Writing/bayesiantribulations/config.md undefined (0)
+INFO 8/27/2021, 6:11:01 PM  [focus] 8
+INFO 8/27/2021, 6:11:01 PM  synced recovery
+INFO 8/27/2021, 6:11:01 PM  handle document.loadInitData
+INFO 8/27/2021, 6:11:01 PM  added recovery 8 /home/theo/Writing/bayesiantribulations/config.md undefined (0)
+INFO 8/27/2021, 6:11:01 PM  synced recovery
+INFO 8/27/2021, 6:11:06 PM  [focus] 3
+INFO 8/27/2021, 6:11:06 PM  [blur] 3
+INFO 8/27/2021, 6:11:06 PM  [win] blur
+INFO 8/27/2021, 6:11:07 PM  [focus] 3
+INFO 8/27/2021, 6:11:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\entropy{q}$$
+
+" (1093)
+INFO 8/27/2021, 6:11:08 PM  synced recovery
+INFO 8/27/2021, 6:11:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:11:09 PM  synced recovery
+INFO 8/27/2021, 6:11:10 PM  [blur] 3
+INFO 8/27/2021, 6:11:10 PM  [win] blur
+INFO 8/27/2021, 6:11:12 PM  [focus] 3
+INFO 8/27/2021, 6:11:13 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...entropy{q}$$
+
+w" (1094)
+INFO 8/27/2021, 6:11:13 PM  synced recovery
+INFO 8/27/2021, 6:11:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...py{q},$$
+
+where" (1099)
+INFO 8/27/2021, 6:11:16 PM  synced recovery
+INFO 8/27/2021, 6:11:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...py{q},$$
+
+where" (1099)
+INFO 8/27/2021, 6:11:17 PM  synced recovery
+INFO 8/27/2021, 6:11:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...py{q},$$
+
+where" (1099)
+INFO 8/27/2021, 6:11:18 PM  synced recovery
+INFO 8/27/2021, 6:11:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...y{q},$$
+
+where " (1100)
+INFO 8/27/2021, 6:11:18 PM  synced recovery
+INFO 8/27/2021, 6:11:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$
+
+where $\enmt" (1106)
+INFO 8/27/2021, 6:11:21 PM  synced recovery
+INFO 8/27/2021, 6:11:21 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$$
+
+where $\ent" (1105)
+INFO 8/27/2021, 6:11:21 PM  synced recovery
+INFO 8/27/2021, 6:11:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ere $\entropy{}" (1111)
+INFO 8/27/2021, 6:11:22 PM  synced recovery
+INFO 8/27/2021, 6:11:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...re $\entropy{q}" (1112)
+INFO 8/27/2021, 6:11:22 PM  synced recovery
+INFO 8/27/2021, 6:11:23 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e $\entropy{q}$" (1113)
+INFO 8/27/2021, 6:11:23 PM  synced recovery
+INFO 8/27/2021, 6:11:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... the entropy $\" (1131)
+INFO 8/27/2021, 6:11:26 PM  synced recovery
+INFO 8/27/2021, 6:11:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...entropy $-\int " (1136)
+INFO 8/27/2021, 6:11:31 PM  synced recovery
+INFO 8/27/2021, 6:11:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...entropy $-\int " (1136)
+INFO 8/27/2021, 6:11:32 PM  synced recovery
+INFO 8/27/2021, 6:11:32 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ntropy $-\int q" (1137)
+INFO 8/27/2021, 6:11:32 PM  synced recovery
+INFO 8/27/2021, 6:11:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ropy $-\int q()" (1139)
+INFO 8/27/2021, 6:11:33 PM  synced recovery
+INFO 8/27/2021, 6:11:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...opy $-\int q(q)" (1140)
+INFO 8/27/2021, 6:11:33 PM  synced recovery
+INFO 8/27/2021, 6:11:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ropy $-\int q()" (1139)
+INFO 8/27/2021, 6:11:34 PM  synced recovery
+INFO 8/27/2021, 6:11:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...opy $-\int q(z)" (1140)
+INFO 8/27/2021, 6:11:34 PM  synced recovery
+INFO 8/27/2021, 6:11:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ropy $-\int q(z" (1139)
+INFO 8/27/2021, 6:11:34 PM  synced recovery
+INFO 8/27/2021, 6:11:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ropy $-\int q(x" (1139)
+INFO 8/27/2021, 6:11:35 PM  synced recovery
+INFO 8/27/2021, 6:11:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...opy $-\int q(x)" (1140)
+INFO 8/27/2021, 6:11:35 PM  synced recovery
+INFO 8/27/2021, 6:11:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$-\int q(x)\log" (1144)
+INFO 8/27/2021, 6:11:36 PM  synced recovery
+INFO 8/27/2021, 6:11:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\int q(x)\log()" (1146)
+INFO 8/27/2021, 6:11:37 PM  synced recovery
+INFO 8/27/2021, 6:11:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...int q(x)\log(x)" (1147)
+INFO 8/27/2021, 6:11:37 PM  synced recovery
+INFO 8/27/2021, 6:11:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x)\log(x)dx$ o" (1152)
+INFO 8/27/2021, 6:11:40 PM  synced recovery
+INFO 8/27/2021, 6:11:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\log(x)dx$ of $" (1155)
+INFO 8/27/2021, 6:11:45 PM  synced recovery
+INFO 8/27/2021, 6:11:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1151)
+INFO 8/27/2021, 6:11:46 PM  synced recovery
+INFO 8/27/2021, 6:11:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... q(x)\log(x)dx$" (1150)
+INFO 8/27/2021, 6:11:46 PM  synced recovery
+INFO 8/27/2021, 6:11:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$ " (1151)
+INFO 8/27/2021, 6:11:46 PM  synced recovery
+INFO 8/27/2021, 6:11:52 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...he entropy $q$." (1133)
+INFO 8/27/2021, 6:11:52 PM  synced recovery
+INFO 8/27/2021, 6:11:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e entropy o$q$." (1134)
+INFO 8/27/2021, 6:11:53 PM  synced recovery
+INFO 8/27/2021, 6:11:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\log(x)dx$ of ." (1162)
+INFO 8/27/2021, 6:11:54 PM  synced recovery
+INFO 8/27/2021, 6:11:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(x)\log(x)dx$ ." (1159)
+INFO 8/27/2021, 6:11:55 PM  synced recovery
+INFO 8/27/2021, 6:11:56 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:11:56 PM  synced recovery
+INFO 8/27/2021, 6:12:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1159)
+INFO 8/27/2021, 6:12:02 PM  synced recovery
+INFO 8/27/2021, 6:12:03 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1162)
+INFO 8/27/2021, 6:12:03 PM  synced recovery
+INFO 8/27/2021, 6:12:03 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1160)
+INFO 8/27/2021, 6:12:03 PM  synced recovery
+INFO 8/27/2021, 6:12:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1167)
+INFO 8/27/2021, 6:12:04 PM  synced recovery
+INFO 8/27/2021, 6:12:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1166)
+INFO 8/27/2021, 6:12:04 PM  synced recovery
+INFO 8/27/2021, 6:12:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1166)
+INFO 8/27/2021, 6:12:05 PM  synced recovery
+INFO 8/27/2021, 6:12:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1167)
+INFO 8/27/2021, 6:12:05 PM  synced recovery
+INFO 8/27/2021, 6:12:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1169)
+INFO 8/27/2021, 6:12:06 PM  synced recovery
+INFO 8/27/2021, 6:12:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:12:07 PM  synced recovery
+INFO 8/27/2021, 6:12:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1172)
+INFO 8/27/2021, 6:12:10 PM  synced recovery
+INFO 8/27/2021, 6:12:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:12:10 PM  synced recovery
+INFO 8/27/2021, 6:12:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1173)
+INFO 8/27/2021, 6:12:24 PM  synced recovery
+INFO 8/27/2021, 6:12:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:12:29 PM  synced recovery
+INFO 8/27/2021, 6:12:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x)\log(x)dx$.
+
+" (1180)
+INFO 8/27/2021, 6:12:38 PM  synced recovery
+INFO 8/27/2021, 6:12:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q(x)\log(x)dx$." (1178)
+INFO 8/27/2021, 6:12:38 PM  synced recovery
+INFO 8/27/2021, 6:12:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...x)\log(x)dx$.
+
+" (1180)
+INFO 8/27/2021, 6:12:39 PM  synced recovery
+INFO 8/27/2021, 6:12:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...)\log(x)dx$.
+
+B" (1181)
+INFO 8/27/2021, 6:12:39 PM  synced recovery
+INFO 8/27/2021, 6:12:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...log(x)dx$.
+
+By " (1183)
+INFO 8/27/2021, 6:12:40 PM  synced recovery
+INFO 8/27/2021, 6:12:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...og(x)dx$.
+
+By m" (1184)
+INFO 8/27/2021, 6:12:40 PM  synced recovery
+INFO 8/27/2021, 6:12:43 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...imizing $\mathc" (1201)
+INFO 8/27/2021, 6:12:43 PM  synced recovery
+INFO 8/27/2021, 6:12:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ing $\mathcal{}" (1205)
+INFO 8/27/2021, 6:12:44 PM  synced recovery
+INFO 8/27/2021, 6:12:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ng $\mathcal{L}" (1206)
+INFO 8/27/2021, 6:12:44 PM  synced recovery
+INFO 8/27/2021, 6:12:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ng $\mathcal{L}" (1206)
+INFO 8/27/2021, 6:12:45 PM  synced recovery
+INFO 8/27/2021, 6:12:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...g $\mathcal{L}$" (1207)
+INFO 8/27/2021, 6:12:45 PM  synced recovery
+INFO 8/27/2021, 6:12:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...cal{L}$ with re" (1215)
+INFO 8/27/2021, 6:12:47 PM  synced recovery
+INFO 8/27/2021, 6:12:47 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...al{L}$ with res" (1216)
+INFO 8/27/2021, 6:12:47 PM  synced recovery
+INFO 8/27/2021, 6:12:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...pect to the par" (1231)
+INFO 8/27/2021, 6:12:50 PM  synced recovery
+INFO 8/27/2021, 6:12:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ect to the para" (1232)
+INFO 8/27/2021, 6:12:50 PM  synced recovery
+INFO 8/27/2021, 6:12:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ct to the param" (1233)
+INFO 8/27/2021, 6:12:50 PM  synced recovery
+INFO 8/27/2021, 6:12:50 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t to the paramt" (1234)
+INFO 8/27/2021, 6:12:50 PM  synced recovery
+INFO 8/27/2021, 6:12:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t to the paramt" (1234)
+INFO 8/27/2021, 6:12:51 PM  synced recovery
+INFO 8/27/2021, 6:12:51 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...t to the parame" (1234)
+INFO 8/27/2021, 6:12:51 PM  synced recovery
+INFO 8/27/2021, 6:12:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...rameters of $q$" (1245)
+INFO 8/27/2021, 6:12:54 PM  synced recovery
+INFO 8/27/2021, 6:12:56 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ameters of $q$ " (1246)
+INFO 8/27/2021, 6:12:56 PM  synced recovery
+INFO 8/27/2021, 6:12:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$ that we call " (1259)
+INFO 8/27/2021, 6:12:59 PM  synced recovery
+INFO 8/27/2021, 6:12:59 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... that we call $" (1260)
+INFO 8/27/2021, 6:12:59 PM  synced recovery
+INFO 8/27/2021, 6:13:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\theta$ we can " (1276)
+INFO 8/27/2021, 6:13:07 PM  synced recovery
+INFO 8/27/2021, 6:13:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:13:09 PM  synced recovery
+INFO 8/27/2021, 6:13:11 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...theta$ we can t" (1282)
+INFO 8/27/2021, 6:13:11 PM  synced recovery
+INFO 8/27/2021, 6:13:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...find the optima" (1303)
+INFO 8/27/2021, 6:13:14 PM  synced recovery
+INFO 8/27/2021, 6:13:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ind the optimal" (1304)
+INFO 8/27/2021, 6:13:14 PM  synced recovery
+INFO 8/27/2021, 6:13:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e optimal distr" (1310)
+INFO 8/27/2021, 6:13:15 PM  synced recovery
+INFO 8/27/2021, 6:13:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... optimal distri" (1311)
+INFO 8/27/2021, 6:13:15 PM  synced recovery
+INFO 8/27/2021, 6:13:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...imal distribtui" (1315)
+INFO 8/27/2021, 6:13:16 PM  synced recovery
+INFO 8/27/2021, 6:13:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ptimal distribu" (1313)
+INFO 8/27/2021, 6:13:17 PM  synced recovery
+INFO 8/27/2021, 6:13:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:13:25 PM  synced recovery
+INFO 8/27/2021, 6:13:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...bution $q^*$.
+
+" (1326)
+INFO 8/27/2021, 6:13:26 PM  synced recovery
+INFO 8/27/2021, 6:13:26 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ution $q^*$.
+
+T" (1327)
+INFO 8/27/2021, 6:13:26 PM  synced recovery
+INFO 8/27/2021, 6:13:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...There are many " (1341)
+INFO 8/27/2021, 6:13:28 PM  synced recovery
+INFO 8/27/2021, 6:13:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...here are many a" (1342)
+INFO 8/27/2021, 6:13:28 PM  synced recovery
+INFO 8/27/2021, 6:13:31 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...approaches to d" (1356)
+INFO 8/27/2021, 6:13:31 PM  synced recovery
+INFO 8/27/2021, 6:13:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ches to do this" (1362)
+INFO 8/27/2021, 6:13:33 PM  synced recovery
+INFO 8/27/2021, 6:13:33 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...hes to do this," (1363)
+INFO 8/27/2021, 6:13:33 PM  synced recovery
+INFO 8/27/2021, 6:13:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...e most straight" (1381)
+INFO 8/27/2021, 6:13:36 PM  synced recovery
+INFO 8/27/2021, 6:13:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... most straightf" (1382)
+INFO 8/27/2021, 6:13:36 PM  synced recovery
+INFO 8/27/2021, 6:13:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...is to perform g" (1404)
+INFO 8/27/2021, 6:13:39 PM  synced recovery
+INFO 8/27/2021, 6:13:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...erform gradeitn" (1411)
+INFO 8/27/2021, 6:13:40 PM  synced recovery
+INFO 8/27/2021, 6:13:41 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...o perform gradi" (1408)
+INFO 8/27/2021, 6:13:41 PM  synced recovery
+INFO 8/27/2021, 6:13:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...form gradietn d" (1413)
+INFO 8/27/2021, 6:13:42 PM  synced recovery
+INFO 8/27/2021, 6:13:42 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...perform gradien" (1410)
+INFO 8/27/2021, 6:13:42 PM  synced recovery
+INFO 8/27/2021, 6:13:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...adient descent," (1420)
+INFO 8/27/2021, 6:13:45 PM  synced recovery
+INFO 8/27/2021, 6:13:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...descent, i.e. d" (1427)
+INFO 8/27/2021, 6:13:49 PM  synced recovery
+INFO 8/27/2021, 6:13:53 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...tarting point $" (1451)
+INFO 8/27/2021, 6:13:53 PM  synced recovery
+INFO 8/27/2021, 6:13:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...g point $\theta" (1457)
+INFO 8/27/2021, 6:13:54 PM  synced recovery
+INFO 8/27/2021, 6:13:55 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... point $\theta^" (1458)
+INFO 8/27/2021, 6:13:55 PM  synced recovery
+INFO 8/27/2021, 6:14:02 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q\theta^0$ and " (1466)
+INFO 8/27/2021, 6:14:02 PM  synced recovery
+INFO 8/27/2021, 6:14:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... \theta^0$ and " (1471)
+INFO 8/27/2021, 6:14:05 PM  synced recovery
+INFO 8/27/2021, 6:14:05 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q\theta^0$ and " (1472)
+INFO 8/27/2021, 6:14:05 PM  synced recovery
+INFO 8/27/2021, 6:14:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...q\theta^0$ and " (1472)
+INFO 8/27/2021, 6:14:08 PM  synced recovery
+INFO 8/27/2021, 6:14:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(\theta^0$ and " (1473)
+INFO 8/27/2021, 6:14:08 PM  synced recovery
+INFO 8/27/2021, 6:14:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\theta^0)$ and " (1474)
+INFO 8/27/2021, 6:14:10 PM  synced recovery
+INFO 8/27/2021, 6:14:13 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ta^0)$ and iter" (1478)
+INFO 8/27/2021, 6:14:13 PM  synced recovery
+INFO 8/27/2021, 6:14:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...$ and iterate :" (1483)
+INFO 8/27/2021, 6:14:16 PM  synced recovery
+INFO 8/27/2021, 6:14:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...and iterate :
+
+" (1485)
+INFO 8/27/2021, 6:14:16 PM  synced recovery
+INFO 8/27/2021, 6:14:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...nd iterate :
+
+$" (1486)
+INFO 8/27/2021, 6:14:17 PM  synced recovery
+INFO 8/27/2021, 6:14:18 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...rate :
+
+$$ q^{}" (1492)
+INFO 8/27/2021, 6:14:18 PM  synced recovery
+INFO 8/27/2021, 6:14:19 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ate :
+
+$$ q^{t}" (1493)
+INFO 8/27/2021, 6:14:19 PM  synced recovery
+INFO 8/27/2021, 6:14:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...te :
+
+$$ q^{t+1" (1494)
+INFO 8/27/2021, 6:14:20 PM  synced recovery
+INFO 8/27/2021, 6:14:22 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...iterate :
+
+$$ \" (1489)
+INFO 8/27/2021, 6:14:22 PM  synced recovery
+INFO 8/27/2021, 6:14:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...:
+
+$$ \theta^{}" (1497)
+INFO 8/27/2021, 6:14:24 PM  synced recovery
+INFO 8/27/2021, 6:14:24 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+
+$$ \theta^{T}" (1498)
+INFO 8/27/2021, 6:14:24 PM  synced recovery
+INFO 8/27/2021, 6:14:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...:
+
+$$ \theta^{}" (1497)
+INFO 8/27/2021, 6:14:25 PM  synced recovery
+INFO 8/27/2021, 6:14:25 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...
+
+$$ \theta^{t}" (1498)
+INFO 8/27/2021, 6:14:25 PM  synced recovery
+INFO 8/27/2021, 6:14:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{t+1} = \theta^" (1510)
+INFO 8/27/2021, 6:14:28 PM  synced recovery
+INFO 8/27/2021, 6:14:28 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...+1} = \theta^{}" (1512)
+INFO 8/27/2021, 6:14:28 PM  synced recovery
+INFO 8/27/2021, 6:14:29 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...1} = \theta^{t}" (1513)
+INFO 8/27/2021, 6:14:29 PM  synced recovery
+INFO 8/27/2021, 6:14:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...= \theta^{t} = " (1516)
+INFO 8/27/2021, 6:14:30 PM  synced recovery
+INFO 8/27/2021, 6:14:30 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... = \theta^{t} -" (1515)
+INFO 8/27/2021, 6:14:30 PM  synced recovery
+INFO 8/27/2021, 6:14:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... - \epsilon \fr" (1528)
+INFO 8/27/2021, 6:14:34 PM  synced recovery
+INFO 8/27/2021, 6:14:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \epsilon \f" (1527)
+INFO 8/27/2021, 6:14:34 PM  synced recovery
+INFO 8/27/2021, 6:14:34 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \epsilon \g" (1527)
+INFO 8/27/2021, 6:14:34 PM  synced recovery
+INFO 8/27/2021, 6:14:35 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...- \epsilon \gra" (1529)
+INFO 8/27/2021, 6:14:35 PM  synced recovery
+INFO 8/27/2021, 6:14:36 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} - \epsilon \n" (1527)
+INFO 8/27/2021, 6:14:36 PM  synced recovery
+INFO 8/27/2021, 6:14:37 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...\epsilon \nabal" (1531)
+INFO 8/27/2021, 6:14:37 PM  synced recovery
+INFO 8/27/2021, 6:14:38 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... \epsilon \nabl" (1530)
+INFO 8/27/2021, 6:14:38 PM  synced recovery
+INFO 8/27/2021, 6:14:39 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...psilon \nabla_}" (1533)
+INFO 8/27/2021, 6:14:39 PM  synced recovery
+INFO 8/27/2021, 6:14:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...epsilon \nabla_" (1532)
+INFO 8/27/2021, 6:14:40 PM  synced recovery
+INFO 8/27/2021, 6:14:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...silon \nabla_{}" (1534)
+INFO 8/27/2021, 6:14:40 PM  synced recovery
+INFO 8/27/2021, 6:14:40 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ilon \nabla_{\}" (1535)
+INFO 8/27/2021, 6:14:40 PM  synced recovery
+INFO 8/27/2021, 6:14:44 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{\theta} \mathc" (1547)
+INFO 8/27/2021, 6:14:44 PM  synced recovery
+INFO 8/27/2021, 6:14:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...eta} \mathcal{}" (1551)
+INFO 8/27/2021, 6:14:45 PM  synced recovery
+INFO 8/27/2021, 6:14:45 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...ta} \mathcal{L}" (1552)
+INFO 8/27/2021, 6:14:45 PM  synced recovery
+INFO 8/27/2021, 6:14:46 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...} \mathcal{L}()" (1554)
+INFO 8/27/2021, 6:14:46 PM  synced recovery
+INFO 8/27/2021, 6:14:49 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... \mathcal{L}(\)" (1555)
+INFO 8/27/2021, 6:14:49 PM  synced recovery
+INFO 8/27/2021, 6:14:54 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...al{L}(\theta^t)" (1562)
+INFO 8/27/2021, 6:14:54 PM  synced recovery
+INFO 8/27/2021, 6:14:57 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{L}(\theta^t)$$" (1564)
+INFO 8/27/2021, 6:14:57 PM  synced recovery
+INFO 8/27/2021, 6:14:58 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:14:58 PM  synced recovery
+INFO 8/27/2021, 6:15:04 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...}(\theta^t)$$
+
+" (1566)
+INFO 8/27/2021, 6:15:04 PM  synced recovery
+INFO 8/27/2021, 6:15:06 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(\theta^t)$$
+
+B" (1567)
+INFO 8/27/2021, 6:15:06 PM  synced recovery
+INFO 8/27/2021, 6:15:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...theta^t)$$
+
+Ble" (1569)
+INFO 8/27/2021, 6:15:07 PM  synced recovery
+INFO 8/27/2021, 6:15:07 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...heta^t)$$
+
+Blei" (1570)
+INFO 8/27/2021, 6:15:07 PM  synced recovery
+INFO 8/27/2021, 6:15:08 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...heta^t)$$
+
+Blei" (1570)
+INFO 8/27/2021, 6:15:08 PM  synced recovery
+INFO 8/27/2021, 6:15:09 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...{L}(\theta^t)$$" (1564)
+INFO 8/27/2021, 6:15:09 PM  synced recovery
+INFO 8/27/2021, 6:15:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...}(\theta^t)$$
+
+" (1566)
+INFO 8/27/2021, 6:15:10 PM  synced recovery
+INFO 8/27/2021, 6:15:10 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...(\theta^t)$$
+
+A" (1567)
+INFO 8/27/2021, 6:15:10 PM  synced recovery
+INFO 8/27/2021, 6:15:12 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...a^t)$$
+
+Anotehr" (1573)
+INFO 8/27/2021, 6:15:12 PM  synced recovery
+INFO 8/27/2021, 6:15:12 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...eta^t)$$
+
+Anoth" (1571)
+INFO 8/27/2021, 6:15:12 PM  synced recovery
+INFO 8/27/2021, 6:15:13 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...^t)$$
+
+Another " (1574)
+INFO 8/27/2021, 6:15:13 PM  synced recovery
+INFO 8/27/2021, 6:15:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...^t)$$
+
+Another " (1574)
+INFO 8/27/2021, 6:15:14 PM  synced recovery
+INFO 8/27/2021, 6:15:15 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...other more stri" (1583)
+INFO 8/27/2021, 6:15:15 PM  synced recovery
+INFO 8/27/2021, 6:15:16 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...other more stra" (1583)
+INFO 8/27/2021, 6:15:16 PM  synced recovery
+INFO 8/27/2021, 6:15:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...r more straight" (1587)
+INFO 8/27/2021, 6:15:17 PM  synced recovery
+INFO 8/27/2021, 6:15:17 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V... more straightf" (1588)
+INFO 8/27/2021, 6:15:17 PM  synced recovery
+INFO 8/27/2021, 6:15:20 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md "@def title = "V...pproach is to u" (1611)
+INFO 8/27/2021, 6:15:20 PM  synced recovery
+INFO 8/27/2021, 6:15:27 PM  [blur] 3
+INFO 8/27/2021, 6:15:27 PM  [win] blur
+INFO 8/27/2021, 6:19:12 PM  [focus] 3
+INFO 8/27/2021, 6:19:14 PM  added recovery 3 /home/theo/Writing/bayesiantribulations/blogposts/messagepassing.md null (0)
+INFO 8/27/2021, 6:19:14 PM  synced recovery
+INFO 8/27/2021, 6:19:17 PM  [blur] 3
+INFO 8/27/2021, 6:19:17 PM  [win] blur
+INFO 8/27/2021, 6:19:29 PM  got argv [typora /home/theo/Writing/bayesiantribulations/index.md] from secondary instance
+INFO 8/27/2021, 6:19:29 PM  addRecentDocument
+INFO 8/27/2021, 6:19:29 PM  added recovery 9 /home/theo/Writing/bayesiantribulations/index.md undefined (0)
+INFO 8/27/2021, 6:19:29 PM  [focus] 9
+INFO 8/27/2021, 6:19:29 PM  synced recovery
+INFO 8/27/2021, 6:19:29 PM  handle document.loadInitData
+INFO 8/27/2021, 6:19:30 PM  added recovery 9 /home/theo/Writing/bayesiantribulations/index.md undefined (0)
+INFO 8/27/2021, 6:19:30 PM  synced recovery
+INFO 8/27/2021, 6:19:33 PM  got argv [typora /home/theo/Writing/bayesiantribulations/blogposts.md] from secondary instance
+INFO 8/27/2021, 6:19:33 PM  addRecentDocument
+INFO 8/27/2021, 6:19:33 PM  added recovery 10 /home/theo/Writing/bayesiantribulations/blogposts.md undefined (0)
+INFO 8/27/2021, 6:19:34 PM  [focus] 10
+INFO 8/27/2021, 6:19:34 PM  synced recovery
+INFO 8/27/2021, 6:19:34 PM  handle document.loadInitData
+INFO 8/27/2021, 6:19:34 PM  added recovery 10 /home/theo/Writing/bayesiantribulations/blogposts.md undefined (0)
+INFO 8/27/2021, 6:19:34 PM  synced recovery
+INFO 8/27/2021, 6:19:37 PM  added recovery 10 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...ated 24/07/20)
+" (446)
+INFO 8/27/2021, 6:19:37 PM  synced recovery
+INFO 8/27/2021, 6:19:37 PM  added recovery 10 /home/theo/Writing/bayesiantribulations/blogposts.md "@def title = "B...ated 24/07/20)
+" (447)
+INFO 8/27/2021, 6:19:37 PM  synced recovery
+INFO 8/27/2021, 6:19:38 PM  added recovery 10 /home/theo/Writing/bayesiantribulations/blogposts.md null (0)
+INFO 8/27/2021, 6:19:38 PM  synced recovery
+INFO 8/27/2021, 6:19:40 PM  [blur] 10
+INFO 8/27/2021, 6:19:40 PM  [win] blur
+INFO 8/30/2021, 3:45:28 PM  [focus] 10
+INFO 8/30/2021, 3:45:30 PM  [blur] 10
+INFO 8/30/2021, 3:45:30 PM  [win] blur
+INFO 8/30/2021, 3:45:32 PM  [focus] 10
+INFO 8/30/2021, 3:48:51 PM  [focus] 3
+INFO 8/30/2021, 3:48:53 PM  [blur] 3
+INFO 8/30/2021, 3:48:53 PM  [win] blur
+INFO 8/30/2021, 3:48:55 PM  [focus] 3
+INFO 8/30/2021, 3:48:57 PM  [blur] 3
+INFO 8/30/2021, 3:48:57 PM  [win] blur
+INFO 8/30/2021, 3:57:02 PM  [focus] 3
+INFO 8/30/2021, 3:57:05 PM  synced recovery
+INFO 8/30/2021, 3:57:05 PM  ----------------before-quit-----------------
+INFO 8/30/2021, 3:57:05 PM  ------------------will-quit------------------
+INFO 8/30/2021, 3:57:05 PM  -----------------quit------------------
+INFO 8/30/2021, 3:57:05 PM  closeLogging
+INFO 11/15/2021, 11:33:22 AM  ------------------start------------------
+INFO 11/15/2021, 11:33:22 AM  typora version: 0.11.5
+INFO 11/15/2021, 11:33:22 AM  addRecentDocument
+INFO 11/15/2021, 11:33:22 AM  added recovery 1 /home/theo/.cache/.fr-JFB0N4/ravi-aistats/README.md undefined (0)
+INFO 11/15/2021, 11:33:22 AM  [Raven] instanceKey = 82f1c243-6ed1-4dd4-ab71-5e9f434c17f3
+INFO 11/15/2021, 11:33:22 AM  [focus] 1
+INFO 11/15/2021, 11:33:22 AM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 11/15/2021, 11:33:22 AM  putAccelerator File -> &File
+INFO 11/15/2021, 11:33:22 AM  putAccelerator Edit -> &Edit
+INFO 11/15/2021, 11:33:22 AM  putAccelerator Paragraph -> &Paragraph
+INFO 11/15/2021, 11:33:22 AM  putAccelerator Format -> F&ormat
+INFO 11/15/2021, 11:33:22 AM  putAccelerator View -> &View
+INFO 11/15/2021, 11:33:22 AM  putAccelerator Themes -> &Themes
+INFO 11/15/2021, 11:33:22 AM  putAccelerator Help -> &Help
+INFO 11/15/2021, 11:33:22 AM  synced recovery
+INFO 11/15/2021, 11:33:23 AM  handle document.loadInitData
+INFO 11/15/2021, 11:33:23 AM  added recovery 1 /home/theo/.cache/.fr-JFB0N4/ravi-aistats/README.md undefined (0)
+INFO 11/15/2021, 11:33:23 AM  synced recovery
+INFO 11/15/2021, 11:33:36 AM  [blur] 1
+INFO 11/15/2021, 11:33:36 AM  [win] blur
+INFO 11/15/2021, 11:33:49 AM  [focus] 1
+INFO 11/15/2021, 11:34:01 AM  synced recovery
+INFO 11/15/2021, 11:34:01 AM  ----------------before-quit-----------------
+INFO 11/15/2021, 11:34:01 AM  ------------------will-quit------------------
+INFO 11/15/2021, 11:34:01 AM  -----------------quit------------------
+INFO 11/15/2021, 11:34:01 AM  closeLogging
+INFO 12/1/2021, 1:59:24 PM  ------------------start------------------
+INFO 12/1/2021, 1:59:24 PM  typora version: 0.11.5
+INFO 12/1/2021, 1:59:24 PM  addRecentDocument
+INFO 12/1/2021, 1:59:24 PM  added recovery 1 /home/theo/Code/rusty-advent-calendar/README.md undefined (0)
+INFO 12/1/2021, 1:59:24 PM  [Raven] instanceKey = d387e742-a803-4664-b683-c40149bcc5a8
+INFO 12/1/2021, 1:59:24 PM  [focus] 1
+INFO 12/1/2021, 1:59:24 PM  [Raven] userId = 4594421d-ec7b-44f1-a282-490440491909
+INFO 12/1/2021, 1:59:24 PM  putAccelerator File -> &File
+INFO 12/1/2021, 1:59:24 PM  putAccelerator Edit -> &Edit
+INFO 12/1/2021, 1:59:24 PM  putAccelerator Paragraph -> &Paragraph
+INFO 12/1/2021, 1:59:24 PM  putAccelerator Format -> F&ormat
+INFO 12/1/2021, 1:59:24 PM  putAccelerator View -> &View
+INFO 12/1/2021, 1:59:24 PM  putAccelerator Themes -> &Themes
+INFO 12/1/2021, 1:59:24 PM  putAccelerator Help -> &Help
+INFO 12/1/2021, 1:59:24 PM  synced recovery
+INFO 12/1/2021, 1:59:24 PM  handle document.loadInitData
+INFO 12/1/2021, 1:59:24 PM  added recovery 1 /home/theo/Code/rusty-advent-calendar/README.md undefined (0)
+INFO 12/1/2021, 1:59:24 PM  [blur] 1
+INFO 12/1/2021, 1:59:24 PM  [win] blur
+INFO 12/1/2021, 1:59:24 PM  synced recovery
+INFO 12/1/2021, 1:59:24 PM  added recovery 1 undefined  (0)
+INFO 12/1/2021, 1:59:24 PM  synced recovery
+INFO 12/1/2021, 1:59:24 PM  [focus] 1
+INFO 12/1/2021, 1:59:26 PM  [blur] 1
+INFO 12/1/2021, 1:59:26 PM  [win] blur
+INFO 12/1/2021, 1:59:28 PM  [focus] 1
+INFO 12/1/2021, 1:59:30 PM  added recovery 1 undefined # (1)
+INFO 12/1/2021, 1:59:30 PM  synced recovery
+INFO 12/1/2021, 1:59:33 PM  added recovery 1 undefined ## Rusty Calend (15)
+INFO 12/1/2021, 1:59:33 PM  synced recovery
+INFO 12/1/2021, 1:59:33 PM  added recovery 1 undefined ## Rusty Calendar
+
+ (19)
+INFO 12/1/2021, 1:59:33 PM  synced recovery
+INFO 12/1/2021, 1:59:34 PM  added recovery 1 undefined ## Rusty Calendar
+
+
+
+ (21)
+INFO 12/1/2021, 1:59:34 PM  synced recovery
+INFO 12/1/2021, 1:59:34 PM  added recovery 1 undefined ## Rusty Calendar
+
+ (19)
+INFO 12/1/2021, 1:59:34 PM  synced recovery
+INFO 12/1/2021, 1:59:36 PM  added recovery 1 undefined ## Rusty Calendar
+
+P (20)
+INFO 12/1/2021, 1:59:36 PM  synced recovery
+INFO 12/1/2021, 1:59:39 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from [] (34)
+INFO 12/1/2021, 1:59:39 PM  synced recovery
+INFO 12/1/2021, 1:59:41 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from [a] (35)
+INFO 12/1/2021, 1:59:41 PM  synced recovery
+INFO 12/1/2021, 1:59:42 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from [a] (35)
+INFO 12/1/2021, 1:59:42 PM  synced recovery
+INFO 12/1/2021, 1:59:42 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from t[a] (36)
+INFO 12/1/2021, 1:59:42 PM  synced recovery
+INFO 12/1/2021, 1:59:45 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [a] (39)
+INFO 12/1/2021, 1:59:45 PM  synced recovery
+INFO 12/1/2021, 1:59:45 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [ac] (40)
+INFO 12/1/2021, 1:59:45 PM  synced recovery
+INFO 12/1/2021, 1:59:45 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [a] (39)
+INFO 12/1/2021, 1:59:45 PM  synced recovery
+INFO 12/1/2021, 1:59:45 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [ad] (40)
+INFO 12/1/2021, 1:59:45 PM  synced recovery
+INFO 12/1/2021, 1:59:46 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [adev] (42)
+INFO 12/1/2021, 1:59:46 PM  synced recovery
+INFO 12/1/2021, 1:59:46 PM  added recovery 1 undefined ## Rusty Calendar
+
+Problem from the [adv] (41)
+INFO 12/1/2021, 1:59:46 PM  synced recovery
+INFO 12/1/2021, 1:59:48 PM  added recovery 1 undefined "## Rusty Calend...vent of code]()" (54)
+INFO 12/1/2021, 1:59:48 PM  synced recovery
+INFO 12/1/2021, 1:59:50 PM  [blur] 1
+INFO 12/1/2021, 1:59:50 PM  [win] blur
+INFO 12/1/2021, 1:59:54 PM  [focus] 1
+INFO 12/1/2021, 1:59:55 PM  added recovery 1 undefined "## Rusty Calend...t-calendar.git)" (123)
+INFO 12/1/2021, 1:59:55 PM  synced recovery
+INFO 12/1/2021, 1:59:56 PM  added recovery 1 undefined "## Rusty Calend...-calendar.git)," (124)
+INFO 12/1/2021, 1:59:56 PM  synced recovery
+INFO 12/1/2021, 2:00:01 PM  added recovery 1 undefined "## Rusty Calend...dly solved in R" (148)
+INFO 12/1/2021, 2:00:01 PM  synced recovery
+INFO 12/1/2021, 2:00:02 PM  added recovery 1 undefined "## Rusty Calend...ly solved in Ru" (149)
+INFO 12/1/2021, 2:00:02 PM  synced recovery
+INFO 12/1/2021, 2:00:02 PM  added recovery 1 undefined "## Rusty Calend...y solved in Rus" (150)
+INFO 12/1/2021, 2:00:02 PM  synced recovery
+INFO 12/1/2021, 2:00:04 PM  [blur] 1
+INFO 12/1/2021, 2:00:04 PM  [win] blur
+INFO 12/1/2021, 2:00:10 PM  [focus] 1
+INFO 12/1/2021, 2:00:10 PM  addRecentDocument
+INFO 12/1/2021, 2:00:10 PM  added recovery 1 undefined null (0)
+INFO 12/1/2021, 2:00:10 PM  synced recovery
+INFO 12/1/2021, 2:00:10 PM  added recovery 1 /home/theo/Code/rusty-advent-calendar/README.md null (0)
+INFO 12/1/2021, 2:00:10 PM  synced recovery
+INFO 12/1/2021, 2:00:13 PM  [blur] 1
+INFO 12/1/2021, 2:00:13 PM  [win] blur
+INFO 12/1/2021, 2:00:13 PM  [focus] 1
+INFO 12/1/2021, 2:00:15 PM  synced recovery
+INFO 12/1/2021, 2:00:15 PM  ----------------before-quit-----------------
+INFO 12/1/2021, 2:00:15 PM  ------------------will-quit------------------
+INFO 12/1/2021, 2:00:15 PM  -----------------quit------------------
+INFO 12/1/2021, 2:00:15 PM  closeLogging
